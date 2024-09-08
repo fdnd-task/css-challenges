@@ -29,7 +29,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 🎯 ⸺ [Modern CSS solution - smörgåsbord elegante voorbeelden](https://moderncss.dev/) (Stephanie Eckles) advanced 🌶️  
 🎯 ⸺ [CSS {In Real Life} - yet another CSS blog](https://css-irl.info/) (Michelle Barker)  
 
-🎯 ⸺ [web.dev - algemeen frontend blog](https://web.dev/) (Google)
+🎯 ⸺ [web.dev - algemeen frontend blog](https://web.dev/) (Google)  
 🎯 ⸺ [Smashing magazine - algemeen frontend blog](https://www.smashingmagazine.com/) (Smashing)  
 
 🎯 ⸺ [Leer grid van Wes Bos](https://cssgrid.io) (Wes Bos) videos 📽️  
