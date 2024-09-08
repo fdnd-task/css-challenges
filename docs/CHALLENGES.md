@@ -3,6 +3,8 @@
 
 Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderwerp meer advanced en zal de nadruk meer op experimenteren liggen, soms is het onderwerp introducerend en ligt de nadruk meer op kennismaken en oefenen. Om de verworven kennis en vaardigheden daarna verder uit te proberen in je eigen werk.
 
+<hr>
+
 ## Planning
 
 ### dinsdag 9 sep
