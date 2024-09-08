@@ -37,7 +37,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 <hr>
 
-## Zelf verder oefenen
+## Zelf nog meer oefenen
 🚀 ⸺ [CSS diner - selectors](https://flukeout.github.io) (www)  
 🚀 ⸺ [CSS Grid Garden - grid](https://cssgridgarden.com) (www)  
 🚀 ⸺ [Flexfroggy - flexbox](https://flexboxfroggy.com) (www)  
