@@ -25,7 +25,10 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 🎯 ⸺ [CSS almanac - overzicht van selectors en properties](https://css-tricks.com/almanac/) (CSS tricks)  
 🎯 ⸺ [CSS weekly - newsletter om bij te blijven](https://css-weekly.com/) (Zoran Jambor)  
-🎯 ⸺ [Modern CSS solution - smörgåsbord elegante voorbeelden](https://moderncss.dev/) (Stephanie Eckles) advanced  
+🎯 ⸺ [CSS podcast - Una en Adam babbelen over CSS](https://pod.link/thecsspodcast/) (Una Kravetz and Adam Argyle)
+🎯 ⸺ [Modern CSS solution - smörgåsbord elegante voorbeelden](https://moderncss.dev/) (Stephanie Eckles) advanced 🌶️  
+🎯 ⸺ [Leer grid van Wes Bos](https://cssgrid.io) (Wes Bos) videos 📽️
+🎯 ⸺ [Leer flexbox van Wes Bos](https://flexbox.io/) (Wes Bos) videos 📽️
 
 <hr>
 
@@ -35,3 +38,4 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 🚀 ⸺ [Flexfroggy - flexbox](https://flexboxfroggy.com/) (www)  
 🚀 ⸺ [CSS battle - CSS sommetjes](https://cssbattle.dev/) (Kushagra Gour en Kushagra Agarwal) minder karakters is vaak niet beter :(  
 🚀 ⸺ [CSS challenges - CSS sommetjes](https://css-challenges.com/) (Temani Afif)  
+🚀 ⸺ [Learn HTML CSS](https://learnhtmlcss.online/) (Jad Joubran) paid 💰
