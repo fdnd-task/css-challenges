@@ -17,8 +17,19 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 📊 ⸺ niveau: all  
 🙋 ⸺ voor: all  
 
+<hr>
+
 ## Bronnen
 
-🎯 ⸺ [css almanac - overzicht van selectors en properties](https://css-tricks.com/almanac/) (CSS tricks)  
+🎯 ⸺ [CSS almanac - overzicht van selectors en properties](https://css-tricks.com/almanac/) (CSS tricks)  
 🎯 ⸺ [CSS weekly - newsletter om bij te blijven](https://css-weekly.com/) (Zoran Jambor)  
-🎯 ⸺ [Modern CSS solution - smörgåsbord elegante voorbeelden](https://moderncss.dev/) advanced  
+🎯 ⸺ [Modern CSS solution - smörgåsbord elegante voorbeelden](https://moderncss.dev/) (Stephanie Eckles) advanced  
+
+<hr>
+
+## Oefenen
+🚀 ⸺ [CSS diner - selectors](https://flukeout.github.io/) (www)  
+🚀 ⸺ [CSS Grid Garden - grid](https://cssgridgarden.com/) (www)  
+🚀 ⸺ [Flexfroggy - flexbox](https://flexboxfroggy.com/) (www)  
+🚀 ⸺ [CSS battle - CSS sommetjes](https://cssbattle.dev/) (Kushagra Gour en Kushagra Agarwal) minder karakters is vaak niet beter :(  
+🚀 ⸺ [CSS challenges - CSS sommetjes](https://css-challenges.com/) (Temani Afif)  
