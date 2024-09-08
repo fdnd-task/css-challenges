@@ -51,4 +51,4 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 <img src="images/coincidence.png" alt="coincidence" width="100%"/>
 
-bron: [comicss - Alvaro Montero](https://comicss.art)
+bron: [comi**css** - Alvaro Montero](https://comicss.art)
