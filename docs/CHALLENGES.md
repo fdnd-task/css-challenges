@@ -49,5 +49,5 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 <hr>
 
-<img src="images/coincidence.png" alt="coincidence" width="100%"/>  
+<img src="images/coincidence.png" alt="coincidence" width="100%"/>
 bron: [comi**css** - alvaro montero](https://comicss.art/)
