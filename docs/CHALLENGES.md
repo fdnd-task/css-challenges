@@ -21,7 +21,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 <hr>
 
-## Bronnen
+## Overall CSS bronnen
 
 🎯 ⸺ [CSS almanac - overzicht van selectors en properties](https://css-tricks.com/almanac/) (CSS tricks)  
 🎯 ⸺ [CSS weekly - newsletter om bij te blijven](https://css-weekly.com/) (Zoran Jambor)  
@@ -37,7 +37,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 <hr>
 
-## Oefenen
+## Zelf verder oefenen
 🚀 ⸺ [CSS diner - selectors](https://flukeout.github.io/) (www)  
 🚀 ⸺ [CSS Grid Garden - grid](https://cssgridgarden.com/) (www)  
 🚀 ⸺ [Flexfroggy - flexbox](https://flexboxfroggy.com/) (www)  
