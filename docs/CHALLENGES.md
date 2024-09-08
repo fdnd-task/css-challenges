@@ -26,9 +26,11 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 🎯 ⸺ [CSS almanac - overzicht van selectors en properties](https://css-tricks.com/almanac/) (CSS tricks)  
 🎯 ⸺ [CSS weekly - newsletter om bij te blijven](https://css-weekly.com/) (Zoran Jambor)  
 🎯 ⸺ [CSS podcast - Una en Adam babbelen over CSS](https://pod.link/thecsspodcast/) (Una Kravetz and Adam Argyle)  
-🎯 ⸺ [web.dev - algemeen frontend blog](https://web.dev/) (Google)
-🎯 ⸺ [Smashing magazine - algemeen frontend blog](https://www.smashingmagazine.com/) (Smashing)
 🎯 ⸺ [Modern CSS solution - smörgåsbord elegante voorbeelden](https://moderncss.dev/) (Stephanie Eckles) advanced 🌶️  
+🎯 ⸺ [CSS {In Real Life} - yet another CSS blog](https://css-irl.info/) (Michelle Barker)  
+
+🎯 ⸺ [web.dev - algemeen frontend blog](https://web.dev/) (Google)
+🎯 ⸺ [Smashing magazine - algemeen frontend blog](https://www.smashingmagazine.com/) (Smashing)  
 
 🎯 ⸺ [Leer grid van Wes Bos](https://cssgrid.io) (Wes Bos) videos 📽️  
 🎯 ⸺ [Leer flexbox van Wes Bos](https://flexbox.io/) (Wes Bos) videos 📽️  
