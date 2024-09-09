@@ -4,7 +4,7 @@
 
 # CSS challenge 1: Grid
 
-🗓️ ⸺ **Dinsdag 9 september**  
+🗓️ ⸺ **Dinsdag 10 september**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 
 📗 ⸺
