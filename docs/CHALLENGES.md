@@ -52,6 +52,6 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
  
 
 <figure>
-  <figcaption>bron: [comi**css** - Alvaro Montero](https://comicss.art) </figcaption>
+  <figcaption>bron: <a href="https://comicss.art">comi<strong>css</strong> - Alvaro Montero</a></figcaption>
   <img src="images/coincidence.png" alt="coincidence" width="100%"/>
 </figure>
