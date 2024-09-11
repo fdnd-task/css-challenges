@@ -15,13 +15,13 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ### dinsdag 24 sep 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🐛 ⸺ challenge 3: **Gradients**  
+🌈 ⸺ challenge 3: **Gradients**  
 📊 ⸺ niveau: van starters tot wizard
 🙋 ⸺ voor: even aanmelden (meer info volgt)  
 
 ### dinsdag 1 okt 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🐛 ⸺ challenge 3: **Flexbox**  
+🏋️ ⸺ challenge 3: **Flexbox**  
 📊 ⸺ niveau: starters
 🙋 ⸺ voor: even aanmelden   
 
