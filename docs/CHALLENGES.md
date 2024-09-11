@@ -13,7 +13,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 📊 ⸺ niveau: all  
 🙋 ⸺ voor: all  
 
-##done
+## Done
 
 ### dinsdag 10 sep
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
