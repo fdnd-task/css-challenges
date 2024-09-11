@@ -1,5 +1,6 @@
-Info, materiaal en instructies vind je in: [docs/CHALLENGES.md](docs/CHALLENGES.md)
+## Opdrachten en co
 
+Info, materiaal en instructies vind je in: [docs/CHALLENGES.md](docs/CHALLENGES.md)
 
 ## Licentie
 
