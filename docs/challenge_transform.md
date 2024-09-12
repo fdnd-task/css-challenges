@@ -70,7 +70,7 @@ niet meteen spieken 🫣
 🎯 ⸺ [transition-delay](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay) (MDN 🦊)  
 🎯 ⸺ [transition-property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-property) (MDN 🦊)  
 🎯 ⸺ [transition-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function) (MDN 🦊)  
-🎯 ⸺ [ceaser (css custom easing)](https://matthewlein.com/tools/ceaser) (www 🔗)  
+🎯 ⸺ [ceaser (css custom easing)](https://matthewlein.com/tools/ceaser) (www 👑)  
 
 🎯 ⸺ [perspective](https://developer.mozilla.org/en-US/docs/Web/CSS/perspective) (MDN 🦊)  
 🎯 ⸺ [backface-visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility) (MDN 🦊)  
