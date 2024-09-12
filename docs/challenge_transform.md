@@ -49,7 +49,6 @@ niet meteen spieken 🫣
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/live/zYVbQeQ" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
 (CodePen)  
-
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/zYVbQeQ" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)  
