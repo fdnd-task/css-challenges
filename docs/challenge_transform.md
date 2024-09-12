@@ -59,4 +59,25 @@ niet meteen spieken 🫣
 ---
  
 ## Links
-🎯 ⸺ [Oefenen in de CSS Grid Garden](https://cssgridgarden.com) (www 🥕)
+🎯 ⸺ [translate](https://developer.mozilla.org/en-US/docs/Web/CSS/translate) (MDN 🦊)  
+🎯 ⸺ [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/rotate) (MDN 🦊)  
+🎯 ⸺ [scale](https://developer.mozilla.org/en-US/docs/Web/CSS/scale) (MDN 🦊)  
+🎯 ⸺ [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) (MDN 🦊)  
+🎯 ⸺ [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin) (MDN 🦊)  
+
+🎯 ⸺ [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition) (MDN 🦊)  
+🎯 ⸺ [transition-duration](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration) (MDN 🦊)  
+🎯 ⸺ [transition-delay](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay) (MDN 🦊)  
+🎯 ⸺ [transition-property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-property) (MDN 🦊)  
+🎯 ⸺ [transition-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function) (MDN 🦊)  
+🎯 ⸺ [ceaser (css custom easing)](https://matthewlein.com/tools/ceaser) (www 🔗)  
+
+🎯 ⸺ [perspective](https://developer.mozilla.org/en-US/docs/Web/CSS/perspective) (MDN 🦊)  
+🎯 ⸺ [backface-visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility) (MDN 🦊)  
+
+🎯 ⸺ [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter) (MDN 🦊)  
+🎯 ⸺ [overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow) (MDN 🦊)  
+🎯 ⸺ [prefers-reduced-motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion) (MDN 🦊)  
+🎯 ⸺ [pointer-events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) (MDN 🦊)  
+
+🎯 ⸺ [long read - individual transform properties](https://web.dev/articles/css-individual-transform-properties) (web.dev 🦖)  
