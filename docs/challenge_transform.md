@@ -8,10 +8,10 @@
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-intro.pdf" target="_blank" rel="noopener noreferrer">Transform en Transition intro</a> 
+<a href="pres/FDND-2425-CSSchallenge2-transform-transition-intro.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition intro</a> 
 (pdf 4MB)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/XWLGQYz" target="_blank" rel="noopener noreferrer">Transform en Transition sample</a> 
+<a href="https://codepen.io/shooft/pen/XWLGQYz" target="_blank" rel="noopener noreferrer">Transform & Transition sample</a> 
 (CodePen)  
 
 ---
@@ -21,7 +21,7 @@
 📊 ⸺ 🔵 🔴 ⚫️
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening1.pdf" target="_blank" rel="noopener noreferrer">Transform en Transition oefening 1</a> 
+<a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening1.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 1</a> 
 (pdf)
 
 🧑‍💻 ⸺
@@ -40,7 +40,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🔵 🔴 ⚫️
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening2.pdf" target="_blank" rel="noopener noreferrer">Transform en Transition oefening 2</a> 
+<a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening2.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 2</a> 
 (pdf)  
 
 🧑‍💻 ⸺
