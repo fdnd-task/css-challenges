@@ -41,7 +41,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🔵 🔴 ⚫️
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening2.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 2</a> 
+<a href="pres/FDND-2425-CSSchallenge2-gradients-oefening2.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 2</a> 
 (pdf)  
 
 🧑‍💻 ⸺
