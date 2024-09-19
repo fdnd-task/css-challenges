@@ -9,7 +9,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ### dinsdag 24 sep 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🌈 ⸺ challenge 3: **[gradients]**((gradients.md))
+🌈 ⸺ challenge 3: **[gradients]**(challenge_gradients.md)
 📊 ⸺ niveau: van starters tot wizard  
 🙋 ⸺ voor: even aanmelden - max 24 
 
