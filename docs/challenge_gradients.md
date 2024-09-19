@@ -45,7 +45,7 @@ niet meteen spieken 🫣
 (pdf)  
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/xxoBNBK" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/MWMNrKL" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/live/eYwqyJo" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
