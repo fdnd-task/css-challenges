@@ -36,7 +36,7 @@ niet meteen spieken 🫣
 
 ---
 
-## Oefening 2: 🧊 Gradients galore
+## Oefening 2: 🌈 Gradients galore
 
 📊 ⸺ 🔵 🔴 ⚫️
 
@@ -50,6 +50,23 @@ niet meteen spieken 🫣
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/live/eYwqyJo" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
 (CodePen)  
+
+---
+
+## Oefening 3: 🤹 Animeren met @property
+
+📊 ⸺ 🔴 ⚫️
+
+📙 ⸺ 
+<a href="pres/FDND-2425-CSSchallenge3-Gradients-oefening3.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 3</a> 
+(pdf)  
+
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/RwXwymp" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/live/poMoVyp" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+(CodePen)
 
 ---
  
@@ -66,3 +83,8 @@ niet meteen spieken 🫣
 🎯 ⸺ [Repeating-radial](developer.mozilla.org/en-US/docs/Web/CSS/gradient/repeating-radial-gradient) (MDN 🦊)  
 🎯 ⸺ [Conic](developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient) (MDN 🦊)  
 🎯 ⸺ [Repeating-conic](developer.mozilla.org/en-US/docs/Web/CSS/gradient/repeating-conic-gradient) (MDN 🦊)   
+
+🎯 ⸺ [high-def colors and gradients](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide) (adam argyle 🦖)
+🎯 ⸺ [high-def gradient generator](https://gradient.style/) (adam argyle 🦖)
+
+🎯 ⸺ Animeren met @property](https://dev.to/afif/we-can-finally-animate-css-gradient-kdk) (Temani Afif 🤴)
