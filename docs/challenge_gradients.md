@@ -84,7 +84,7 @@ niet meteen spieken 🫣
 🎯 ⸺ [Conic](developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient) (MDN 🦊)  
 🎯 ⸺ [Repeating-conic](developer.mozilla.org/en-US/docs/Web/CSS/gradient/repeating-conic-gradient) (MDN 🦊)   
 
-🎯 ⸺ [high-def colors and gradients](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide) (adam argyle 🦖)  
-🎯 ⸺ [high-def gradient generator](https://gradient.style/) (adam argyle 🦖)  
+🎯 ⸺ [high-def colors and gradients](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide) (Adam Argyle 🦖)  
+🎯 ⸺ [high-def gradient generator](https://gradient.style/) (Adam Argyle 🦖)  
 
 🎯 ⸺ [Animeren met @property](https://dev.to/afif/we-can-finally-animate-css-gradient-kdk) (Temani Afif 🤴)
