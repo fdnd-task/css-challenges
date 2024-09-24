@@ -87,4 +87,4 @@ niet meteen spieken 🫣
 🎯 ⸺ [high-def colors and gradients](https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide) (adam argyle 🦖)
 🎯 ⸺ [high-def gradient generator](https://gradient.style/) (adam argyle 🦖)
 
-🎯 ⸺ Animeren met @property](https://dev.to/afif/we-can-finally-animate-css-gradient-kdk) (Temani Afif 🤴)
+🎯 ⸺ [Animeren met @property](https://dev.to/afif/we-can-finally-animate-css-gradient-kdk) (Temani Afif 🤴)
