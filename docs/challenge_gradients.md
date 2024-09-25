@@ -17,7 +17,7 @@
 
 ---
 
-## Oefening 1: 🤝 meet the properties
+## Oefening 1: 🤝 Meet the properties
 
 📊 ⸺ 🔵
 
