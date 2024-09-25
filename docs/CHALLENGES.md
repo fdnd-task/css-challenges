@@ -11,7 +11,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ### dinsdag 1 okt 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🏋️ ⸺ challenge 3: **[flexbox](flexbox.md)**   
+🏋️ ⸺ challenge 3: **[flexbox](challenge_flexbox.md)**   
 📊 ⸺ niveau: starters  
 🙋 ⸺ voor: even aanmelden   
 
