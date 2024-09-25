@@ -39,7 +39,7 @@ niet meteen spieken 🫣
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge4-Flexbox-oefening2.pdf" target="_blank" rel="noopener noreferrer">Flexbox oefening 2</a> 
-(pdf)  
+(pdf 28MB)  
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/bGXNxGp" target="_blank" rel="noopener noreferrer">Code voor jou</a>
