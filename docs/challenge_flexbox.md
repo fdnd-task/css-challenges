@@ -51,6 +51,6 @@ niet meteen spieken 🫣
 ---
  
 ## Links
-🎯 ⸺ [Alles over flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (CSS tricks 🪄)
-🎯 ⸺ [Leer flexbox van Wes Bos](https://flexbox.io/) (Wes Bos - videos 📽️) 
-🎯 ⸺ [Flexbox or Grid](https://youtu.be/3elGSZSWTbM?si=1X5RiZoOylQjbLCZ) (Kevin Powell - video 🥊)
+🎯 ⸺ [Alles over flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (CSS tricks 🪄)  
+🎯 ⸺ [Leer flexbox van Wes Bos](https://flexbox.io/) (Wes Bos - videos 📽️)  
+🎯 ⸺ [Flexbox or Grid](https://youtu.be/3elGSZSWTbM?si=1X5RiZoOylQjbLCZ) (Kevin Powell - video 🥊)  
