@@ -10,7 +10,7 @@
 
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge5-Positioneren-intro.pdf" target="_blank" rel="noopener noreferrer">Flexbox intro</a> 
+<a href="pres/FDND-2425-CSSchallenge5-Positioneren-intro.pdf" target="_blank" rel="noopener noreferrer">Position intro</a> 
 (pdf 2MB)  
 📗 ⸺
 <a href="pres/FDND-2425-CSSchallenge5-JS-3stap-intro.pdf" target="_blank" rel="noopener noreferrer">JS 3-stap intro</a> 
