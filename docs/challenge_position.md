@@ -24,7 +24,7 @@
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening1.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 1</a> 
-(pdf)
+(pdf 10MB)
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/GRVWyZg" target="_blank" rel="noopener noreferrer">Code voor jou</a>
@@ -43,7 +43,7 @@ niet meteen spieken 🫣
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening2.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 2</a> 
-(pdf 28MB)  
+(pdf 9MB)  
 
 2-buttons hamburger menu
 🧑‍💻 ⸺
@@ -77,7 +77,7 @@ moving-buttons hamburger menu
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening3.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 3</a> 
-(pdf)
+(pdf 2MB)
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/yLmMvwB" target="_blank" rel="noopener noreferrer">Code voor jou</a>
