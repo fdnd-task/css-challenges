@@ -61,7 +61,7 @@ fixed-button hamburger menu
 <a href="https://codepen.io/shooft/pen/eYqvyLP" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
 (CodePen) 
 
-moving-buttons hamburger menu  
+moving-button hamburger menu  
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/qBerpgW" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
