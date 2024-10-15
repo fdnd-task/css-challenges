@@ -89,8 +89,9 @@ moving-button hamburger menu
 ---
  
 ## Links
-🎯 ⸺ [Flexfroggy - flexbox](https://flexboxfroggy.com) (www 🐸)  
+🎯 ⸺ [Learn CSS Position in 9 Minutes](https://youtu.be/jx5jmI0UlXU?si=X9XpV4TXoP9124bZ) (Web Dev Simplified - video 📽️)  
+🎯 ⸺ [Z-index and stacking contexts](https://web.dev/learn/css/z-index) (web.dev 🦖 - advanced)  
 
-🎯 ⸺ [Alles over flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (CSS tricks 🪄)  
-🎯 ⸺ [Leer flexbox van Wes Bos](https://flexbox.io/) (Wes Bos - videos 📽️)  
-🎯 ⸺ [Flexbox or Grid](https://youtu.be/3elGSZSWTbM?si=1X5RiZoOylQjbLCZ) (Kevin Powell - video 🥊)  
+🎯 ⸺ [Learn Dialog in 12 min](https://blog.webdevsimplified.com/2023-04/html-dialog/) (Web Dev Simplified - videos 📽️)   
+🎯 ⸺ [Animating the Dialog Element](https://frontendmasters.com/blog/animating-dialog/) (FrontendMasters 🧑‍💻)   
+🎯 ⸺ [Transitioning dialog and popover in and out](https://codepen.io/argyleink/pen/zYbQBOm) (Adam Argyle 🦖 - demo)   
