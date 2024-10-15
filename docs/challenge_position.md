@@ -50,7 +50,7 @@ niet meteen spieken 🫣
 <a href="https://codepen.io/shooft/pen/qBerVXx" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/dyxvZzK" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/shooft/pen/dyxvZzK" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen) 
 
 fixed-button hamburger menu  
@@ -58,7 +58,7 @@ fixed-button hamburger menu
 <a href="https://codepen.io/shooft/pen/poMepOV" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/eYqvyLP" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/shooft/pen/eYqvyLP" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen) 
 
 moving-button hamburger menu  
@@ -66,14 +66,14 @@ moving-button hamburger menu
 <a href="https://codepen.io/shooft/pen/qBerpgW" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/vYoxpwK" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/shooft/pen/vYoxpwK" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen) 
 
 ---
 
 ## Oefening 3: 💬 Dialogs
 
-📊 ⸺ 🔵 🔴
+📊 ⸺ 🔴 ⚫️
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening3.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 3</a> 
