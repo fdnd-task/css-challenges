@@ -10,7 +10,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 ### dinsdag 15 okt 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 🏋️ ⸺ challenge 5: **[position](challenge_position.md)**   
-📊 ⸺ niveau: starters en wat verder 
+📊 ⸺ niveau: starters en wat verder  
 🙋 ⸺ voor: even aanmelden  
 
 
