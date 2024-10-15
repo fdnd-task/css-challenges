@@ -45,7 +45,7 @@ niet meteen spieken 🫣
 <a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening2.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 2</a> 
 (pdf 9MB)  
 
-2-buttons hamburger menu
+2-buttons hamburger menu  
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/qBerVXx" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
@@ -53,7 +53,7 @@ niet meteen spieken 🫣
 <a href="https://codepen.io/shooft/pen/dyxvZzK" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
 (CodePen) 
 
-fixed-button hamburger menu
+fixed-button hamburger menu  
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/poMepOV" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
@@ -61,7 +61,7 @@ fixed-button hamburger menu
 <a href="https://codepen.io/shooft/pen/eYqvyLP" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
 (CodePen) 
 
-moving-buttons hamburger menu
+moving-buttons hamburger menu  
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/qBerpgW" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
