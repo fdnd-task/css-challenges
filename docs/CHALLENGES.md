@@ -7,21 +7,27 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
-### dinsdag 15 okt 
+### dinsdag 11 nov 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🍔 ⸺ challenge 5: **[position](challenge_position.md)**   
-📊 ⸺ niveau: starters en wat verder  
-🙋 ⸺ voor: even aanmelden  
+🍔 ⸺ challenge 5: **Letters en kleuren**   
+📊 ⸺ niveau: starters en verder  
+🙋 ⸺ voor: even aanmelden - max 24 
 
 
 
 ## Done
 
+### dinsdag 15 okt 
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🍔 ⸺ challenge 5: **[position](challenge_position.md)**   
+📊 ⸺ niveau: starters en wat verder  
+🙋 ⸺ voor: even aanmelden - max 24
+
 ### dinsdag 1 okt 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 🏋️ ⸺ challenge 4: **[flexbox](challenge_flexbox.md)**   
 📊 ⸺ niveau: starters  
-🙋 ⸺ voor: even aanmelden   
+🙋 ⸺ voor: even aanmelden - max 24
 
 ### dinsdag 24 sep 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
