@@ -45,7 +45,7 @@ niet meteen spieken 🫣
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/jOgRZeo" target="_blank" rel="noopener noreferrer">Uitwerking</a>
-(CodePen)
+(CodePen)  
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/yLmrvQB" target="_blank" rel="noopener noreferrer">Uitwerking met extra's</a>
 (CodePen)
@@ -64,7 +64,7 @@ niet meteen spieken 🫣
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/BaXEYBm" target="_blank" rel="noopener noreferrer">Uitwerking</a>
-(CodePen)
+(CodePen)  
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/eYqoZgO" target="_blank" rel="noopener noreferrer">Uitwerking met extra's</a>
 (CodePen)
