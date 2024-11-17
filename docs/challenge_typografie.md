@@ -2,13 +2,13 @@
 
 ---
 
-# CSS challenge 6: Letters en kleuren
+# CSS challenge 6: Fonts en font-properties (en kleuren)
 
 🗓️ ⸺ **Dinsdag 18 november**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-intro.pdf" target="_blank" rel="noopener noreferrer">Letters en kleuren intro</a> 
+<a href="pres/FDND-2425-CSSchallenge6-Fonts-intro.pdf" target="_blank" rel="noopener noreferrer">Fonts en font-properties intro</a> 
 (pdf 4MB)   
 
 ---
@@ -19,19 +19,16 @@
 
 
 
-## Oefening 1: 🌱 Even inkomen
+## Oefening 1: 🌱 Fonts en font-properties (opwarmen)
 
 📊 ⸺ 🟦 🟥
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening1.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 1</a> 
+<a href="pres/FDND-2425-CSSchallenge6-Fonts-oefening1.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 1</a> 
 (pdf)
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/WNqmBKd" target="_blank" rel="noopener noreferrer">Code voor jou</a>
-(CodePen)  
-🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/OJeqYwm" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/jOgRZZJ" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)
 
 niet meteen spieken 🫣  
@@ -43,14 +40,33 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥 ⬛️  
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening1.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 1</a> 
+<a href="pres/FDND-2425-CSSchallenge6-Fonts-oefening2.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 2</a> 
 (pdf)
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/WNqmBKd" target="_blank" rel="noopener noreferrer">Code voor jou</a>
-(CodePen)  
+<a href="https://codepen.io/shooft/pen/jOgRZeo" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+(CodePen)
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/OJeqYwm" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/yLmrvQB" target="_blank" rel="noopener noreferrer">Uitwerking met extra's</a>
+(CodePen)
+
+niet meteen spieken 🫣  
+
+---
+
+## Oefening 3: 🦚 Variabele fonts
+
+📊 ⸺ 🟦 🟥 ⬛️  
+
+📙 ⸺ 
+<a href="pres/FDND-2425-CSSchallenge6-Fonts-oefening3.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 3</a> 
+(pdf)
+
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/BaXEYBm" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+(CodePen)
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/eYqoZgO" target="_blank" rel="noopener noreferrer">Uitwerking met extra's</a>
 (CodePen)
 
 niet meteen spieken 🫣  
