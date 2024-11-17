@@ -4,7 +4,7 @@
 
 # CSS challenge 6: Fonts en font-properties (en kleuren)
 
-🗓️ ⸺ **Dinsdag 18 november**  
+🗓️ ⸺ **Dinsdag 19 november**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 
 📗 ⸺
