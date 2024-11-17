@@ -77,8 +77,6 @@ niet meteen spieken 🫣
 
 🎯 ⸺ [web-safe fonts](https://web.mit.edu/jmorzins/www/fonts.html) (www 🧑‍💻)   
 
-🎯 ⸺ [Google fonts illegaal in EU](https://slik.nl/blog/google-fonts/) (www 🧑‍💻)   
-
 🎯 ⸺ [@font-face intro](https://www.w3schools.com/CSSref/atrule_font-face.php) (w3schools 🐥)     
 🎯 ⸺ [@font-face uitgebreider](https://hacks.mozilla.org/2009/06/beautiful-fonts-with-font-face/) (MDN 🦊)    
 
@@ -88,10 +86,10 @@ niet meteen spieken 🫣
 🎯 ⸺ [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display) (MDN 🦊)    
 🎯 ⸺ [font-variation-settings](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-variation-settings) (MDN 🦊)    
 
+🎯 ⸺ [variabele fonts intro](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_fonts/Variable_fonts_guide) (MDN 🦊)  
+🎯 ⸺ [variabele fonts collectie](https://fonts.google.com/?categoryFilters=Technology:%2FTechnology%2FVariable) (Google fonts🦖)  
+
 🎯 ⸺ [Font Squirrel - font generator](https://www.fontsquirrel.com/tools/webfont-generator) (www 🐿️)  
 
 🎯 ⸺ [FOIT vs FOUT](https://www.hoppinger.com/nl/insights/loading-webfonts#:~:text=Maar%20hoe%20voorziet%20een%20browser,of%20Unstyled%20Text%20(FOUT).) (www 🧑‍💻)  
-
-
-🎯 ⸺ [variabele fonts intro](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_fonts/Variable_fonts_guide) (MDN 🦊)  
-🎯 ⸺ [variabele fonts collectie](https://fonts.google.com/?categoryFilters=Technology:%2FTechnology%2FVariable) (Google fonts🦖)   
+🎯 ⸺ [Google fonts illegaal in EU](https://slik.nl/blog/google-fonts/) (www 🧑‍💻)   
