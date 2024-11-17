@@ -88,7 +88,9 @@ niet meteen spieken 🫣
 
 🎯 ⸺ [variabele fonts intro](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_fonts/Variable_fonts_guide) (MDN 🦊)  
 🎯 ⸺ [variabele fonts collectie](https://fonts.google.com/?categoryFilters=Technology:%2FTechnology%2FVariable) (Google fonts🦖)  
+🎯 ⸺ [variabele fonts voorbeelden](https://speckyboy.com/variable-font-examples/) (www 🧑‍💻)  
 
+🎯 ⸺ [wakamaifondue - de font info tool](https://wakamaifondue.com/beta/) (roel niekskens 🤴)  
 🎯 ⸺ [Font Squirrel - font generator](https://www.fontsquirrel.com/tools/webfont-generator) (www 🐿️)  
 
 🎯 ⸺ [FOIT vs FOUT](https://www.hoppinger.com/nl/insights/loading-webfonts#:~:text=Maar%20hoe%20voorziet%20een%20browser,of%20Unstyled%20Text%20(FOUT).) (www 🧑‍💻)  
