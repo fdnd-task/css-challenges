@@ -32,9 +32,9 @@ niet meteen spieken 🫣
 
 ---
 
-## Oefening 2: 🦚 Lekker peilen
+## Oefening 2: 🦚 Mini posters
 
-📊 ⸺ 🔵 🔴 ⚫️
+📊 ⸺ 🔵 🔴 ⚫️ ⬛️ 🟥 🟦
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening1.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 1</a> 
