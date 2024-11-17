@@ -21,7 +21,7 @@
 
 ## Oefening 1: 🤝 Meet the properties
 
-📊 ⸺ 🔵 🔴 ⚫️
+📊 ⸺ 🟦 🟥 ⬛ 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge1-Grid-oefening1.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 1</a> 
@@ -40,7 +40,7 @@ niet meteen spieken 🫣
 
 ## Oefening 2: 🐟 cards (micro-layout)
 
-📊 ⸺ 🔵 🔴
+📊 ⸺ 🟦 🟥
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge1-Grid-oefening2.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 2</a> 
@@ -68,7 +68,7 @@ met grid-template-areas:
 
 ## Oefening 3: 🛍️ webshopje (macro-layout)
 
-📊 ⸺ 🔴 ⚫️
+📊 ⸺ 🟥 ⬛️ 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge1-Grid-oefening3.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 3</a> 
@@ -85,7 +85,7 @@ met grid-template-areas:
 
 ## Oefening 4: 🐠 advanced cards (micro-layout)
 
-📊 ⸺ 🔴 ⚫️
+📊 ⸺ 🟥 ⬛️ 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge1-Grid-oefening4.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 4</a> 

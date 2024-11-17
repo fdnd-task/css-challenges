@@ -18,7 +18,7 @@
 
 ## Oefening 1: 🤝 Meet the properties
 
-📊 ⸺ 🔵 🔴 ⚫️
+📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening1.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 1</a> 
@@ -37,7 +37,7 @@ niet meteen spieken 🫣
 
 ## Oefening 2: 🧊 3D transforms
 
-📊 ⸺ 🔵 🔴 ⚫️
+📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening2.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 2</a> 

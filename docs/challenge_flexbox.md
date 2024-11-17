@@ -16,7 +16,7 @@
 
 ## Oefening 1: 🤝 Meet the properties
 
-📊 ⸺ 🔵 🔴
+📊 ⸺ 🟦 🟥
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge4-Flexbox-oefening1.pdf" target="_blank" rel="noopener noreferrer">Flexbox oefening 1</a> 
@@ -35,7 +35,7 @@ niet meteen spieken 🫣
 
 ## Oefening 2: 🖼️ Responsive header
 
-📊 ⸺ 🔵 🔴
+📊 ⸺ 🟦 🟥
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge4-Flexbox-oefening2.pdf" target="_blank" rel="noopener noreferrer">Flexbox oefening 2</a> 

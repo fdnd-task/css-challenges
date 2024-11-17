@@ -20,7 +20,7 @@
 
 ## Oefening 1: 🤝 Zet dingen op plekken
 
-📊 ⸺ 🔵 🔴
+📊 ⸺ 🟦 🟥 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening1.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 1</a> 
@@ -39,7 +39,7 @@ niet meteen spieken 🫣
 
 ## Oefening 2: 🍔 Hamburger menus
 
-📊 ⸺ 🔵 🔴
+📊 ⸺ 🟦 🟥 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening2.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 2</a> 
@@ -73,7 +73,7 @@ moving-button hamburger menu
 
 ## Oefening 3: 💬 Dialogs
 
-📊 ⸺ 🔴 ⚫️
+📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening3.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 3</a> 

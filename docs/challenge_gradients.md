@@ -19,7 +19,7 @@
 
 ## Oefening 1: 🤝 Meet the properties
 
-📊 ⸺ 🔵
+📊 ⸺ 🟦
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge3-Gradients-oefening1.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 1</a> 
@@ -38,7 +38,7 @@ niet meteen spieken 🫣
 
 ## Oefening 2: 🌈 Gradients galore
 
-📊 ⸺ 🔵 🔴 ⚫️
+📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge3-Gradients-oefening2.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 2</a> 
@@ -55,7 +55,7 @@ niet meteen spieken 🫣
 
 ## Oefening 3: 🤹 Animeren met @property
 
-📊 ⸺ 🔴 ⚫️
+📊 ⸺ 🟥 ⬛️ 
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge3-Gradients-oefening3.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 3</a> 
