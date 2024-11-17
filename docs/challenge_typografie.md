@@ -13,6 +13,12 @@
 
 ---
 
+## Code
+
+<a href="https://github.com/fdnd-task/css-challenge-typografie" target="_blank" rel="noopener noreferrer">Code voor oefening 1, 2 en 3</a> (GitHub - even forken)
+
+
+
 ## Oefening 1: 🌱 Even inkomen
 
 📊 ⸺ 🟦 🟥
