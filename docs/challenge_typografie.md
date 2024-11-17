@@ -9,7 +9,7 @@
 
 📗 ⸺
 <a href="pres/FDND-2425-CSSchallenge6-Fonts-intro.pdf" target="_blank" rel="noopener noreferrer">Fonts en font-properties intro</a> 
-(pdf 4MB)   
+(pdf 3MB)   
 
 ---
 
@@ -41,7 +41,7 @@ niet meteen spieken 🫣
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge6-Fonts-oefening2.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 2</a> 
-(pdf)
+(pdf 3MB)
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/jOgRZeo" target="_blank" rel="noopener noreferrer">Uitwerking</a>
@@ -54,13 +54,13 @@ niet meteen spieken 🫣
 
 ---
 
-## Oefening 3: 🦚 Variabele fonts
+## Oefening 3: 🦋 Variabele fonts
 
 📊 ⸺ 🟦 🟥 ⬛️  
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge6-Fonts-oefening3.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 3</a> 
-(pdf)
+(pdf 3MB)
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/BaXEYBm" target="_blank" rel="noopener noreferrer">Uitwerking</a>
