@@ -74,25 +74,25 @@ niet meteen spieken 🫣
 ---
  
 ## Links
-🎯 ⸺ [translate](https://developer.mozilla.org/en-US/docs/Web/CSS/translate) (MDN 🦊)  
-🎯 ⸺ [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/rotate) (MDN 🦊)  
-🎯 ⸺ [scale](https://developer.mozilla.org/en-US/docs/Web/CSS/scale) (MDN 🦊)  
-🎯 ⸺ [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) (MDN 🦊)  
-🎯 ⸺ [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin) (MDN 🦊)  
 
-🎯 ⸺ [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition) (MDN 🦊)  
-🎯 ⸺ [transition-duration](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration) (MDN 🦊)  
-🎯 ⸺ [transition-delay](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay) (MDN 🦊)  
-🎯 ⸺ [transition-property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-property) (MDN 🦊)  
-🎯 ⸺ [transition-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function) (MDN 🦊)  
-🎯 ⸺ [ceaser (css custom easing)](https://matthewlein.com/tools/ceaser) (www 👑)  
+🎯 ⸺ [web-safe fonts](https://web.mit.edu/jmorzins/www/fonts.html) (www 🧑‍💻)   
 
-🎯 ⸺ [perspective](https://developer.mozilla.org/en-US/docs/Web/CSS/perspective) (MDN 🦊)  
-🎯 ⸺ [backface-visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility) (MDN 🦊)  
+🎯 ⸺ [Google fonts illegaal in EU](https://slik.nl/blog/google-fonts/) (www 🧑‍💻)   
 
-🎯 ⸺ [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter) (MDN 🦊)  
-🎯 ⸺ [overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow) (MDN 🦊)  
-🎯 ⸺ [prefers-reduced-motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion) (MDN 🦊)  
-🎯 ⸺ [pointer-events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) (MDN 🦊)  
+🎯 ⸺ [@font-face intro](https://www.w3schools.com/CSSref/atrule_font-face.php) (w3schools 🐥)     
+🎯 ⸺ [@font-face uitgebreider](https://hacks.mozilla.org/2009/06/beautiful-fonts-with-font-face/) (MDN 🦊)    
 
-🎯 ⸺ [long read - individual transform properties](https://web.dev/articles/css-individual-transform-properties) (web.dev 🦖)  
+🎯 ⸺ [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-weight) (MDN 🦊)    
+🎯 ⸺ [font-style](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-style) (MDN 🦊)    
+🎯 ⸺ [font-strectch](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-stretch) (MDN 🦊)    
+
+🎯 ⸺ [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display) (MDN 🦊)    
+🎯 ⸺ [font-variation-settings](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-variation-settings) (MDN 🦊)    
+
+🎯 ⸺ [Font Squirrel - font generator](https://www.fontsquirrel.com/tools/webfont-generator) (www 🐿️)  
+
+🎯 ⸺ [FOIT vs FOUT](https://www.hoppinger.com/nl/insights/loading-webfonts#:~:text=Maar%20hoe%20voorziet%20een%20browser,of%20Unstyled%20Text%20(FOUT).) (www 🧑‍💻)  
+
+
+🎯 ⸺ [variabele fonts intro](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_fonts/Variable_fonts_guide) (MDN 🦊)  
+🎯 ⸺ [variabele fonts collectie](https://fonts.google.com/?categoryFilters=Technology:%2FTechnology%2FVariable) (Google fonts🦖)   
