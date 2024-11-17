@@ -85,7 +85,6 @@ niet meteen spieken 🫣
 🎯 ⸺ [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-weight) (MDN 🦊)    
 🎯 ⸺ [font-style](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-style) (MDN 🦊)    
 🎯 ⸺ [font-strectch](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-stretch) (MDN 🦊)    
-
 🎯 ⸺ [font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display) (MDN 🦊)    
 🎯 ⸺ [font-variation-settings](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-variation-settings) (MDN 🦊)    
 
