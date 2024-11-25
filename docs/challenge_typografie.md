@@ -6,6 +6,7 @@
 
 🗓️ ⸺ **Dinsdag 19 november**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
+🙋 ⸺ even aanmelden - max 24  
 
 📗 ⸺
 <a href="pres/FDND-2425-CSSchallenge6-Fonts-intro.pdf" target="_blank" rel="noopener noreferrer">Fonts en font-properties intro</a> 
