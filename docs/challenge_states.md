@@ -81,7 +81,6 @@ niet meteen spieken 🫣
 🎯 ⸺ [Ranges stylen](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/) (CSS tricks 🪄)  
 
 🎯 ⸺ [Checks en radios](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons/) (Sara Soueiden 👸)  
-
 🎯 ⸺ [Toggle switches](https://www.sarasoueidan.com/blog/toggle-switch-design/) (Sara Soueiden 👸)  
 
 🎯 ⸺ [:has()](https://webkit.org/blog/13096/css-has-pseudo-class/) (Jen Simmons 🦹‍♀️)  
