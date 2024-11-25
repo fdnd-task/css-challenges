@@ -7,21 +7,21 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
+### dinsdag 26 nov 
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🎛️ ⸺ challenge 7: **[states ( en :has() )](challenge_states.md)**   
+📊 ⸺ niveau: van starters tot wizards   
+🙋 ⸺ voor: even aanmelden - max 24  
+
+
+
+## Done
+
 ### dinsdag 19 nov 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 🧑‍🎨 ⸺ challenge 6: **[fonts en font-properties](challenge_typografie.md)**   
 📊 ⸺ niveau: starters en verder  
 🙋 ⸺ voor: even aanmelden - max 24 
-
-### dinsdag 26 nov 
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🎛️ ⸺ challenge 6: **states ( en :has() )**   
-📊 ⸺ niveau: starters en verder  
-🙋 ⸺ voor: even aanmelden - max 24 
-
-
-
-## Done
 
 ### dinsdag 15 okt 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
