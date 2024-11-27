@@ -2,9 +2,10 @@
 
 ---
 
-# CSS challenge 1: Grid
+# CSS challenge 1 & 8: Grid
 
-🗓️ ⸺ **Dinsdag 10 september**  
+🗓️ ⸺ **Dinsdag 10 september v1**  
+🗓️ ⸺ **Dinsdag 3 december v2**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 
 📗 ⸺

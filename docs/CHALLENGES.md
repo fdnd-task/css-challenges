@@ -7,15 +7,21 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
-### dinsdag 26 nov 
+### dinsdag 3 dec
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🎛️ ⸺ challenge 7: **[states ( en :has() )](challenge_states.md)**   
-📊 ⸺ niveau: van starters tot wizards   
+🍱 ⸺ challenge 8: **[grid v2](challenge_grid.md)**  
+📊 ⸺ niveau: van starters tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
 
 
 
 ## Done
+
+### dinsdag 26 nov 
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🎛️ ⸺ challenge 7: **[states ( en :has() )](challenge_states.md)**   
+📊 ⸺ niveau: van starters tot wizards   
+🙋 ⸺ voor: even aanmelden - max 24  
 
 ### dinsdag 19 nov 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
