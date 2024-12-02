@@ -107,7 +107,7 @@ met grid-template-areas:
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge1-Grid-oefening5.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 5</a> 
-(pdf 2MB)
+(pdf 1MB)
 
 🧑‍💻 ⸺ 
 <a href="https://codepen.io/shooft/pen/JoPdKmq" target="_blank" rel="noopener noreferrer">Code voor jou</a>
@@ -124,7 +124,7 @@ met grid-template-areas:
 
 📙 ⸺ 
 <a href="pres/FDND-2425-CSSchallenge1-Grid-oefening6.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 6</a> 
-(pdf 2MB)
+(pdf 4MB)
 
 🧑‍💻 ⸺ 
 <a href="https://codepen.io/shooft/pen/EaYjwWW" target="_blank" rel="noopener noreferrer">Code voor jou</a>
