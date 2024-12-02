@@ -53,7 +53,7 @@ met grid lines:
 <a href="https://codepen.io/shooft/pen/WNqLvmB" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/live/gONZpEd" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/shooft/pen/gONZpEd" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)  
 
 met grid-template-areas:
@@ -62,7 +62,7 @@ met grid-template-areas:
 <a href="https://codepen.io/shooft/pen/PorXPQr" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/live/ZEdVGZb" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/shooft/pen/ZEdVGZb" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)  
 
 ---
@@ -79,7 +79,7 @@ met grid-template-areas:
 <a href="https://codepen.io/shooft/pen/jOjXbpr" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/live/KKjbdBg" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/shooft/pen/KKjbdBg" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)  
 
 ---
@@ -96,7 +96,41 @@ met grid-template-areas:
 <a href="https://codepen.io/shooft/pen/LYKMpMg" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/live/vYqvNvM" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/shooft/pen/vYqvNvM" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+(CodePen)  
+
+---
+
+## Oefening 5: 🧱 Responsive layout
+
+📊 ⸺ 🟦 🟥 
+
+📙 ⸺ 
+<a href="pres/FDND-2425-CSSchallenge1-Grid-oefening5.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 5</a> 
+(pdf 2MB)
+
+🧑‍💻 ⸺ 
+<a href="https://codepen.io/shooft/pen/JoPdKmq" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/ZYzGbqj" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+(CodePen)  
+
+---
+
+## Oefening 6: 🎈 Expanding grid (zonder media queries)
+
+📊 ⸺ 🟥 ⬛️  
+
+📙 ⸺ 
+<a href="pres/FDND-2425-CSSchallenge1-Grid-oefening6.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 6</a> 
+(pdf 2MB)
+
+🧑‍💻 ⸺ 
+<a href="https://codepen.io/shooft/pen/EaYjwWW" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/azoOLyw" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)  
 
 ---
