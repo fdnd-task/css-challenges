@@ -7,15 +7,25 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
+### dinsdag 4 feb
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🍱 ⸺ challenge 10: **[:has()](has.md)**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
+
+### dinsdag 11 feb
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🍱 ⸺ challenge 9: **[high-def colors](colors.md)**  
+📊 ⸺ niveau: starters tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
+
+## Done
+
 ### dinsdag 3 dec
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 🍱 ⸺ challenge 8: **[grid v2](challenge_grid.md)**  
 📊 ⸺ niveau: van starters tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
-
-
-
-## Done
 
 ### dinsdag 26 nov 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
