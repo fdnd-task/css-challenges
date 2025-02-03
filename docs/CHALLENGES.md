@@ -9,13 +9,13 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ### dinsdag 4 feb
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🍱 ⸺ challenge 9: **[:has()](challenge_has.md)**  
+🪄 ⸺ challenge 9: **[:has()](challenge_has.md)**  
 📊 ⸺ niveau: medium tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
 
 ### dinsdag 11 feb
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🍱 ⸺ challenge 10: **[high-def colors](challenge_colors.md)**  
+⚗️ ⸺ challenge 10: **[high-def colors](challenge_colors.md)**  
 📊 ⸺ niveau: starters tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
 
