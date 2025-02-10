@@ -55,8 +55,8 @@ Lekker de grenzen verkennen.
 
 ## Links
 
-🎯 ⸺ [oklch mixer](https://oklch.com) (evil martians 🧑‍💻)
-🎯 ⸺ [color-mix](https://developer.chrome.com/docs/css-ui/css-color-mix) (developer.chrome.com 🦖)
-🎯 ⸺ [animate gradients](https://css-tricks.com/using-property-for-css-custom-properties/) (css tricks 🪄)
-🎯 ⸺ [@property](https://developer.mozilla.org/en-US/docs/Web/CSS/@property) (MDN 🦊)
-🎯 ⸺ [border-image](https://css-tricks.com/almanac/properties/b/border-image/) (css tricks 🪄)
+🎯 ⸺ [oklch mixer](https://oklch.com) (evil martians 🧑‍💻)  
+🎯 ⸺ [color-mix](https://developer.chrome.com/docs/css-ui/css-color-mix) (developer.chrome.com 🦖)  
+🎯 ⸺ [animate gradients](https://css-tricks.com/using-property-for-css-custom-properties/) (css tricks 🪄)  
+🎯 ⸺ [@property](https://developer.mozilla.org/en-US/docs/Web/CSS/@property) (MDN 🦊)  
+🎯 ⸺ [border-image](https://css-tricks.com/almanac/properties/b/border-image/) (css tricks 🪄)  
