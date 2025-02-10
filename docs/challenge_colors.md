@@ -9,7 +9,7 @@
 🙋 ⸺ even aanmelden - max 24  
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge10-colors.pdf" target="_blank" rel="noopener noreferrer">:has() intro</a> 
+<a href="pres/FDND-2425-CSSchallenge10-colors.pdf" target="_blank" rel="noopener noreferrer">high-def colors intro</a> 
 (pdf 6MB)   
 
 ---
