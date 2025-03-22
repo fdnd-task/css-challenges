@@ -4,7 +4,7 @@
 
 # CSS challenge 11: Container queries en units
 
-🗓️ ⸺ **Dinsdag 19 november**  
+🗓️ ⸺ **Dinsdag 25 maart**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**   
 🙋 ⸺ voor: even aanmelden - max 24   
 
