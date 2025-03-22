@@ -55,7 +55,7 @@ niet meteen spieken 🫣
 
 ---
 
-## Oefening 3: 🍱 Container queries units
+## Oefening 3: 🐡 Container queries units
 
 📊 ⸺ 🟥 ⬛️  
 
