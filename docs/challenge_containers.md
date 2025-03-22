@@ -17,7 +17,6 @@
 🧑‍💻 ⸺ 
 <a href="https://codepen.io/shooft/pen/GgRvOmq" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
-
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/wBvqrQM" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)
@@ -39,7 +38,6 @@ niet meteen spieken 🫣
 🧑‍💻 ⸺ 
 <a href="https://codepen.io/shooft/pen/ogNeoeN" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
-
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/QwWMOgO" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)
