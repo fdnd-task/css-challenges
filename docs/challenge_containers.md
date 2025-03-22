@@ -27,7 +27,7 @@ niet meteen spieken 🫣
 
 ## Voorbeeld: 🏷️ Container cards in action  
 
-<a href="https://codepen.io/shooft/pen/NPWvwgv" target="_blank" rel="noopener noreferrer">Card in a grid</a> 
+👀 ⸺  <a href="https://codepen.io/shooft/pen/NPWvwgv" target="_blank" rel="noopener noreferrer">Card in a grid</a> (CodePen)  
 
 ---
 
