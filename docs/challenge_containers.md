@@ -10,36 +10,60 @@
 
 ---
 
-## Oefening 1: 🌱 My first container query (opwarmen)
+## Oefening 0: 🌳 Media query recap-je (opwarmen)
 
 📊 ⸺ 🟦 🟥
 
 🧑‍💻 ⸺ 
-<a href="https://codepen.io/shooft/pen/GgRvOmq" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/LYojMYJ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/wBvqrQM" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/eYaEROp" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)
 
 niet meteen spieken 🫣  
 
 ---
 
-## Voorbeeld: 🏷️ Container cards in action  
+## Oefening 1: 🌱 My first container query (opwarmen)
 
-👀 ⸺  <a href="https://codepen.io/shooft/pen/NPWvwgv" target="_blank" rel="noopener noreferrer">Card in a grid</a> (CodePen)  
+📊 ⸺ 🟦 🟥
+
+🧑‍💻 ⸺ 
+<a href="https://codepen.io/shooft/pen/wvbqRBa" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/gOJxKbg" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+(CodePen)
+
+niet meteen spieken 🫣  
 
 ---
 
-## Oefening 2: 🍱 Layout met media en container queries
+## Oefening 2: 🍱 Layout met container queries
 
 📊 ⸺ 🟥 ⬛️  
 
 🧑‍💻 ⸺ 
-<a href="https://codepen.io/shooft/pen/ogNeoeN" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/yLWoGyM" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/QwWMOgO" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/VwOzdxP" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+(CodePen)
+
+niet meteen spieken 🫣  
+
+---
+
+## Oefening 3: 🍱 Container queries units
+
+📊 ⸺ 🟥 ⬛️  
+
+🧑‍💻 ⸺ 
+<a href="https://codepen.io/shooft/pen/oNReJga" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/wvbqQXL" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)
 
 niet meteen spieken 🫣  
