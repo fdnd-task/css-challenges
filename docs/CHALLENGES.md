@@ -7,13 +7,37 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
+### dinsdag 25 maart
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🪤 ⸺ challenge 11: **[container queries & units](challenge_containers.md)**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
+
+### dinsdag 15 april
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🎡 ⸺ challenge 12: **sibling-index en sibling-count**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
+
+### dinsdag 13 mei
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🛴 ⸺ challenge 13: **GSAP intro**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
+
+### dinsdag 20 mei
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🛵 ⸺ challenge 14: **GSAP the real thing**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
+
+## Done
+
 ### dinsdag 11 feb
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 ⚗️ ⸺ challenge 10: **[high-def colors](challenge_colors.md)**  
 📊 ⸺ niveau: starters tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
-
-## Done
 
 ### dinsdag 4 feb
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
