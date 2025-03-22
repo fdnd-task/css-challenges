@@ -10,7 +10,7 @@
 
 ---
 
-## Oefening 1: 🌱 Fonts en font-properties (opwarmen)
+## Oefening 1: 🌱 My first container query (opwarmen)
 
 📊 ⸺ 🟦 🟥
 
