@@ -7,15 +7,9 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
-### dinsdag 25 maart
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🪤 ⸺ challenge 11: **[container queries & units](challenge_containers.md)**  
-📊 ⸺ niveau: medium tot gevorderden   
-🙋 ⸺ voor: even aanmelden - max 24  
-
 ### dinsdag 15 april
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🎡 ⸺ challenge 12: **sibling-index en sibling-count**  
+🎰 ⸺ challenge 12: **[customizable select](challenge_select.md)** 
 📊 ⸺ niveau: medium tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
 
@@ -32,6 +26,12 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 🙋 ⸺ voor: even aanmelden - max 24  
 
 ## Done
+
+### dinsdag 25 maart
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🪤 ⸺ challenge 11: **[container queries & units](challenge_containers.md)**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
 
 ### dinsdag 11 feb
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
