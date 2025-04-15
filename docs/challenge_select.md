@@ -21,7 +21,7 @@
 
 ## Oefeningen
 
-Bekijk de samples (of de bronnen) en maak de gegeven <select>'s na.  
+Bekijk de samples (of de bronnen) en maak de gegeven 's na.  
 
 
  
