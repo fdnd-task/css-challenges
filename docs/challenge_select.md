@@ -13,7 +13,7 @@
 ## Samples
 
 🎯 ⸺ [de basics van custom selects](https://codepen.io/shooft/pen/qEEWpdd) (CodePen 🎠)  
-🎯 ⸺ [custom selects met meer content](https://codepen.io/shooft/pen/wBBwpWy) (CodePen 🎠) 
+🎯 ⸺ [custom selects met meer content](https://codepen.io/shooft/pen/wBBwpWy) (CodePen 🎠)  
 🎯 ⸺ [custom selects met een placeholder](https://codepen.io/shooft/pen/ZYYzvJd) (CodePen 🎠)  
 🎯 ⸺ [custom selects met een transitie](https://codepen.io/shooft/pen/OPPLzmQ) (CodePen 🎠)  
 
