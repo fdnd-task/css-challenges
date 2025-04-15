@@ -24,11 +24,7 @@
 Bekijk de samples (of de bronnen) en maak de gegeven <select>'s na.  
 
 
-- 🧑‍💻 ⸺ de basics
-<a href="https://codepen.io/shooft/full/dPPbbOK" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
-(CodePen)
-<a href="https://codepen.io/shooft/pen/ZYYzvjz" target="_blank" rel="noopener noreferrer">Code voor jou</a>
-(CodePen)  
+ 
 
 
 
