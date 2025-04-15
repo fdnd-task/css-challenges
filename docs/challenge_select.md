@@ -53,7 +53,7 @@ Bekijk de samples (of de bronnen) en maak de gegeven \<select\>'s na.
 <a href="https://codepen.io/shooft/live/MYYgEeK" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/vEEBdNj" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
-🧑‍💻 ⸺ responsive grid:
+🌶️ ⸺ responsive grid:
 <a href="https://codepen.io/shooft/live/gbbYOxM" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/bNNbLpy" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
@@ -62,15 +62,15 @@ Bekijk de samples (of de bronnen) en maak de gegeven \<select\>'s na.
 <a href="https://codepen.io/shooft/live/zxxOZVK" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/qEEWxqV" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
-🧑‍💻 ⸺ views select:
+🌶️ ⸺ views select:
 <a href="https://codepen.io/shooft/live/VYYZzxW" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/JooPpNO" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
-🧑‍💻 ⸺ radial select:
+🌶️ ⸺ radial select:
 <a href="https://codepen.io/shooft/live/MYYgERo" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/LEEPQyQ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
-🧑‍💻 ⸺ square select:
+🌶️ ⸺ square select:
 <a href="https://codepen.io/shooft/live/emmOeLP" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/oggvEWq" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
