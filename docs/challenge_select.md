@@ -36,7 +36,7 @@ Bekijk de samples (of de bronnen) en maak de gegeven \<select\>'s na.
 <a href="https://codepen.io/shooft/live/XJJrWRx" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/OPPLzGB" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
-🧑‍💻 ⸺ met \<selectedcontent\>:
+🧑‍💻 ⸺ \<selectedcontent\>:
 <a href="https://codepen.io/shooft/live/JooPjow" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/azzoEep" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
