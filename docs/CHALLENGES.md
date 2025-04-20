@@ -7,12 +7,6 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
-### dinsdag 15 april
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🎰 ⸺ challenge 12: **[customizable select](challenge_select.md)**  
-📊 ⸺ niveau: medium tot gevorderden   
-🙋 ⸺ voor: even aanmelden - max 24  
-
 ### dinsdag 13 mei
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 🛴 ⸺ challenge 13: **GSAP intro**  
@@ -26,6 +20,12 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 🙋 ⸺ voor: even aanmelden - max 24  
 
 ## Done
+
+### dinsdag 15 april
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🎰 ⸺ challenge 12: **[customizable select](challenge_select.md)**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
 
 ### dinsdag 25 maart
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
