@@ -65,7 +65,7 @@ niet meteen spieken 🫣
 
 ---
 
-## Oefening 4: 🛍️  GSAP timeline met button
+## Oefening 4: 🛍️ GSAP timeline met button
 
 📊 ⸺ 🟥 ⬛️ 
 
@@ -80,7 +80,7 @@ niet meteen spieken 🫣
 
 ---
 
-## Oefening 5: 🛍️  GSAP plugins
+## Oefening 5: 🔌 GSAP plugins
 
 📊 ⸺ 🟥 ⬛️ 
 
