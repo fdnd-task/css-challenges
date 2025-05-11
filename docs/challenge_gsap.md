@@ -14,7 +14,7 @@
 <a href="https://codepen.io/shooft/pen/XWLGQYz" target="_blank" rel="noopener noreferrer">Transform & Transition sample</a> 
 (CodePen)  
 
----## Samples
+## Samples
 
 🎯 ⸺ [GSAP basics](https://codepen.io/shooft/pen/KKYbBMa) (CodePen 🎠)  
 
