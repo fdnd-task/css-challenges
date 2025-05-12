@@ -7,12 +7,7 @@
 🗓️ ⸺ **Dinsdag 13 mei**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 
-📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-intro.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition intro</a> 
-(pdf 4MB)  
-🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/XWLGQYz" target="_blank" rel="noopener noreferrer">Transform & Transition sample</a> 
-(CodePen)  
+---
 
 ## Samples
 
