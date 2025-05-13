@@ -11,7 +11,7 @@
 
 ## Samples
 
-🎯 ⸺ [GSAP basics](https://codepen.io/shooft/pen/KKYbBMa) (CodePen 🎠)  
+🎯 ⸺ <a href="https://codepen.io/shooft/pen/KKYbBMa" target="_blank" rel="noopener noreferrer">GSAP basics</a> (CodePen 🎠)  
 
 ---
 
