@@ -2,9 +2,9 @@
 
 ---
 
-# CSS challenge 13: GSAP intro
+# CSS challenge 13: GSAP voor gevorderden
 
-🗓️ ⸺ **Dinsdag 13 mei**  
+🗓️ ⸺ **Dinsdag 20 mei**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 
 ---
@@ -113,7 +113,7 @@ niet meteen spieken 🫣
 ---
 
 ### Oefening 5: 💬 SplitTexts 💬
-📊 ⸺ ⬛️⬛️⬛️
+📊 ⸺ ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️
 Opdracht: animeer de splittexts zoals jij wil 💪
 
 https://github.com/user-attachments/assets/221facfb-5f28-4440-a1ff-b5d6eb7e6679
