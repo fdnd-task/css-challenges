@@ -54,22 +54,22 @@ Bekijk de samples (of de bronnen) en maak de gegeven stuck's na.
 
 ## Oefening 3 - 🎠 Carousel
 
-🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/list/" target="_blank" rel="noopener noreferrer">list</a> uit de carousel gallery ():
+🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/list/" target="_blank" rel="noopener noreferrer">list</a> uit de carousel gallery:
 <a href="https://codepen.io/shooft/pen/KwpMXax" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/VYLjrrx" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 
-🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/slider/" target="_blank" rel="noopener noreferrer">hero slider</a> uit de carousel gallery ():
+🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/slider/" target="_blank" rel="noopener noreferrer">hero slider</a> uit de carousel gallery:
 <a href="https://codepen.io/shooft/pen/yyNJzXG" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/MYweOQe" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 
-🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/hubs/" target="_blank" rel="noopener noreferrer">hubs</a> uit de carousel gallery ():
+🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/hubs/" target="_blank" rel="noopener noreferrer">hubs</a> uit de carousel gallery:
 <a href="https://codepen.io/shooft/pen/gbpMGXG" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/ByNzmre" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 
-🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/product/" target="_blank" rel="noopener noreferrer">product</a> uit de carousel gallery ():
+🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/product/" target="_blank" rel="noopener noreferrer">product</a> uit de carousel gallery:
 <a href="https://codepen.io/shooft/pen/vEOKeVJ" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/MYweOqb" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
