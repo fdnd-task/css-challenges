@@ -6,7 +6,7 @@
 
 🗓️ ⸺ **dinsdag 15 april**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**   
-🙋 ⸺ voor: even aanmelden - max 24   
+🙋 ⸺ even aanmelden - max 24   
 
 ---
 
