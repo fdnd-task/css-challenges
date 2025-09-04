@@ -5,7 +5,7 @@
 # CSS challenge 2: Transform & Transition
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-intro.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition intro</a> 
+<a href="pres/FDND-CSSchallenge2-transform-transition-intro.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition intro</a> 
 (pdf 4MB)  
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/XWLGQYz" target="_blank" rel="noopener noreferrer">Transform & Transition sample</a> 
@@ -18,7 +18,7 @@
 📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening1.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 1</a> 
+<a href="pres/FDND-CSSchallenge2-transform-transition-oefening1.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 1</a> 
 (pdf)
 
 🧑‍💻 ⸺
@@ -37,7 +37,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge2-transform-transition-oefening2.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 2</a> 
+<a href="pres/FDND-CSSchallenge2-transform-transition-oefening2.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition oefening 2</a> 
 (pdf)  
 
 🧑‍💻 ⸺
