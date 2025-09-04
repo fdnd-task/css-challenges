@@ -21,7 +21,9 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 <hr>
 
-## Done 2024/25
+## Done 2025/26
+
+soon
 
 <hr>
 
