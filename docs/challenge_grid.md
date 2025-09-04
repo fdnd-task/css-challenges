@@ -2,11 +2,7 @@
 
 ---
 
-# CSS challenge 1 & 8: Grid
-
-🗓️ ⸺ **Dinsdag 10 september v1**  
-🗓️ ⸺ **Dinsdag 3 december v2**  
-⏰ ⸺ **9:30 - ca 11:30 uur**  
+# CSS challenge: Grid
 
 📗 ⸺
 <a href="pres/FDND-2425-CSSchallenge1-Grid-intro.pdf" target="_blank" rel="noopener noreferrer">Grid intro</a> 

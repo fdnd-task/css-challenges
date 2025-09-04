@@ -2,10 +2,7 @@
 
 ---
 
-# CSS challenge 2: Transform & Transition
-
-🗓️ ⸺ **Dinsdag 17 september**  
-⏰ ⸺ **9:30 - ca 11:30 uur**  
+# CSS challenge: Transform & Transition
 
 📗 ⸺
 <a href="pres/FDND-2425-CSSchallenge2-transform-transition-intro.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition intro</a> 
