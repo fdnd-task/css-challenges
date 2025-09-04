@@ -2,14 +2,14 @@
 
 ---
 
-# CSS challenge: Grid
+# CSS challenge 1: Grid
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge1-Grid-intro.pdf" target="_blank" rel="noopener noreferrer">Grid intro</a> 
-(pdf 24MB)  
+<a href="pres/FDND-CSSchallenge1-Grid-intro.pdf" target="_blank" rel="noopener noreferrer">Grid intro</a> 
+(pdf 8MB)  
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge1-MQ-intro.pdf" target="_blank" rel="noopener noreferrer">Media queries intro</a> 
-(pdf 2MB)  
+<a href="pres/FDND-CSSchallenge1-MQ-intro.pdf" target="_blank" rel="noopener noreferrer">Media queries intro</a> 
+(pdf .5MB)  
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/gONZPwP" target="_blank" rel="noopener noreferrer">Media queries sample</a> 
 (CodePen)  
@@ -21,8 +21,8 @@
 📊 ⸺ 🟦 🟥 ⬛ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge1-Grid-oefening1.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 1</a> 
-(pdf 6MB)
+<a href="pres/FDND-CSSchallenge1-Grid-oefening1.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 1</a> 
+(pdf 1MB)
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/XWLobEm" target="_blank" rel="noopener noreferrer">Code voor jou</a>
@@ -40,7 +40,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge1-Grid-oefening2.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 2</a> 
+<a href="pres/FDND-CSSchallenge1-Grid-oefening2.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 2</a> 
 (pdf 2MB)  
 
 met grid lines:
@@ -68,8 +68,8 @@ met grid-template-areas:
 📊 ⸺ 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge1-Grid-oefening3.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 3</a> 
-(pdf 11MB)
+<a href="pres/FDND-CSSchallenge1-Grid-oefening3.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 3</a> 
+(pdf 2MB)
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/jOjXbpr" target="_blank" rel="noopener noreferrer">Code voor jou</a>
@@ -85,8 +85,8 @@ met grid-template-areas:
 📊 ⸺ 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge1-Grid-oefening4.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 4</a> 
-(pdf 2MB)
+<a href="pres/FDND-CSSchallenge1-Grid-oefening4.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 4</a> 
+(pdf 1MB)
 
 🧑‍💻 ⸺ 
 <a href="https://codepen.io/shooft/pen/LYKMpMg" target="_blank" rel="noopener noreferrer">Code voor jou</a>
@@ -102,7 +102,7 @@ met grid-template-areas:
 📊 ⸺ 🟦 🟥 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge1-Grid-oefening5.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 5</a> 
+<a href="pres/FDND-CSSchallenge1-Grid-oefening5.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 5</a> 
 (pdf 1MB)
 
 🧑‍💻 ⸺ 
@@ -119,7 +119,7 @@ met grid-template-areas:
 📊 ⸺ 🟥 ⬛️  
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge1-Grid-oefening6.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 6</a> 
+<a href="pres/FDND-CSSchallenge1-Grid-oefening6.pdf" target="_blank" rel="noopener noreferrer">Grid oefening 6</a> 
 (pdf 4MB)
 
 🧑‍💻 ⸺ 

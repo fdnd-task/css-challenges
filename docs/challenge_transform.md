@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge: Transform & Transition
+# CSS challenge 2: Transform & Transition
 
 📗 ⸺
 <a href="pres/FDND-2425-CSSchallenge2-transform-transition-intro.pdf" target="_blank" rel="noopener noreferrer">Transform & Transition intro</a> 
