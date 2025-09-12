@@ -7,12 +7,6 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
-### dinsdag 9 sep
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🍱 ⸺ challenge 1: **[grid](challenge_grid.md)**  
-📊 ⸺ niveau: all  
-🙋 ⸺ voor: even aanmelden - max 24  
-
 ### dinsdag 16 sep 
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 🐛 ⸺ challenge 2: **[transform en transities](challenge_transform.md)**  
@@ -23,7 +17,11 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Done 2025/26
 
-soon
+### dinsdag 9 sep
+⏰ ⸺ **9:30 - ca 11:30 uur**  
+🍱 ⸺ challenge 1: **[grid](challenge_grid.md)**  
+📊 ⸺ niveau: all  
+🙋 ⸺ voor: even aanmelden - max 24  
 
 <hr>
 
