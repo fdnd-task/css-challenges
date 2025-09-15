@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge 9: :has()
+# CSS challenge: :has()
 
 🗓️ ⸺ **Dinsdag 4 februari**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  

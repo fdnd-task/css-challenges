@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge 1: Grid
+# CSS challenge: Grid
 
 📗 ⸺
 <a href="pres/FDND-CSSchallenge1-Grid-intro.pdf" target="_blank" rel="noopener noreferrer">Grid intro</a> 

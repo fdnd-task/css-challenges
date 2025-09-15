@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge 3: Gradients
+# CSS challenge: Gradients
 
 🗓️ ⸺ **Dinsdag 24 september**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  

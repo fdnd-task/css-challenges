@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge 15: Stuck, snapped, scrollable (en carousels)
+# CSS challenge: Stuck, snapped, scrollable (en carousels)
 
 🗓️ ⸺ **dinsdag 3 juni**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**   

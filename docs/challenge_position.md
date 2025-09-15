@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge 5: Position
+# CSS challenge: Position
 
 🗓️ ⸺ **Dinsdag 15 oktober**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  

@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge 9: high-def colors
+# CSS challenge: high-def colors
 
 🗓️ ⸺ **Dinsdag 11 februari**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  

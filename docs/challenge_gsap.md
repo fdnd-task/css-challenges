@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge 13: GSAP intro
+# CSS challenge: GSAP intro
 
 🗓️ ⸺ **Dinsdag 13 mei**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  

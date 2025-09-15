@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge 13: GSAP voor gevorderden
+# CSS challenge: GSAP voor gevorderden
 
 🗓️ ⸺ **Dinsdag 20 mei**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
