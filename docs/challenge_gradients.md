@@ -4,7 +4,7 @@
 
 # CSS challenge: Gradients
 
-🗓️ ⸺ **Dinsdag 24 september**  
+🗓️ ⸺ **Dinsdag 23 september**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 🙋 ⸺ even aanmelden - max 24  
 

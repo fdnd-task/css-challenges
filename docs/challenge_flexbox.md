@@ -4,7 +4,7 @@
 
 # CSS challenge: Flexbox
 
-🗓️ ⸺ **Dinsdag 1 oktober**  
+🗓️ ⸺ **Dinsdag 30 sepetember**  
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
 🙋 ⸺ even aanmelden - max 24  
 
