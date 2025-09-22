@@ -9,10 +9,10 @@
 🙋 ⸺ even aanmelden - max 24  
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge3-Gradients-intro.pdf" target="_blank" rel="noopener noreferrer">Gradients intro</a> 
-(pdf 11MB)  
+<a href="pres/FDND-CSSchallenge3-Gradients-intro.pdf" target="_blank" rel="noopener noreferrer">Gradients intro</a> 
+(pdf 1MB)  
 📗 ⸺
-<a href="pres//FDND-2425-CSSchallenge3-Custom-properties-intro.pdf" target="_blank" rel="noopener noreferrer">Custom properties intro</a> 
+<a href="pres//FDND-CSSchallenge3-Custom-properties-intro.pdf" target="_blank" rel="noopener noreferrer">Custom properties intro</a> 
 (pdf)  
 
 ---
@@ -22,7 +22,7 @@
 📊 ⸺ 🟦
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge3-Gradients-oefening1.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 1</a> 
+<a href="pres/FDND-CSSchallenge3-Gradients-oefening1.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 1</a> 
 (pdf)
 
 🧑‍💻 ⸺
@@ -41,7 +41,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge3-Gradients-oefening2.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 2</a> 
+<a href="pres/FDND-CSSchallenge3-Gradients-oefening2.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 2</a> 
 (pdf)  
 
 🧑‍💻 ⸺
@@ -58,7 +58,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge3-Gradients-oefening3.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 3</a> 
+<a href="pres/FDND-CSSchallenge3-Gradients-oefening3.pdf" target="_blank" rel="noopener noreferrer">Gradients oefening 3</a> 
 (pdf)  
 
 🧑‍💻 ⸺
