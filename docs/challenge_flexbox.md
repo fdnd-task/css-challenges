@@ -55,7 +55,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥
 
 📙 ⸺ 
-<a href="pres/FDND-CSSchallenge4-Flexbox-oefening3.pdf" target="_blank" rel="noopener noreferrer">Flexbox oefening 2</a> 
+<a href="pres/FDND-CSSchallenge4-Flexbox-oefening3.pdf" target="_blank" rel="noopener noreferrer">Flexbox oefening 3</a> 
 (pdf 2MB)  
 
 🧑‍💻 ⸺
@@ -72,7 +72,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥
 
 📙 ⸺ 
-<a href="pres/FDND-CSSchallenge4-Flexbox-oefening4.pdf" target="_blank" rel="noopener noreferrer">Flexbox oefening 2</a> 
+<a href="pres/FDND-CSSchallenge4-Flexbox-oefening4.pdf" target="_blank" rel="noopener noreferrer">Flexbox oefening 4</a> 
 (pdf 2MB)  
 
 🧑‍💻 ⸺
