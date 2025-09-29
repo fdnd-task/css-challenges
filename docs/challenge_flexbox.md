@@ -69,7 +69,7 @@ niet meteen spieken 🫣
 
 ## Oefening 4: 🎠 Carousel
 
-📊 ⸺ 🟦 🟥
+📊 ⸺ 🟥 ⬛️
 
 📙 ⸺ 
 <a href="pres/FDND-CSSchallenge4-Flexbox-oefening4.pdf" target="_blank" rel="noopener noreferrer">Flexbox oefening 4</a> 
@@ -83,6 +83,21 @@ niet meteen spieken 🫣
 (CodePen)    
 
 ---
+
+## Oefening 5: 🎠🎠🎠 Carousel++
+
+📊 ⸺ 🟥 ⬛️
+
+of ga los met een eigen carousel met anchor-positioning, scroll-state, scroll-driven...
+
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/myVPjVB" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/VYearbz" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+(CodePen) 
+
+---
  
 ## Links
 🎯 ⸺ [Flexfroggy - flexbox](https://flexboxfroggy.com) (www 🐸)  
@@ -94,3 +109,8 @@ niet meteen spieken 🫣
 🎯 ⸺ [CSS carousels](https://developer.chrome.com/blog/carousels-with-css) (Adam Argyle 🦖)  
 🎯 ⸺ [CSS carousels - configurator](https://chrome.dev/carousel-configurator/) (Adam Argyle 🦖)  
 🎯 ⸺ [CSS carousels - gallery](https://chrome.dev/carousel/) (Adam Argyle 🦖)  
+
+🎯 ⸺ [CSS scroll-state()](https://developer.chrome.com/blog/css-scroll-state-queries) (Adam Argyle 🦖)  
+
+🎯 ⸺ [scroll-target-group](https://una.im/scroll-target-group/) (Una Kravets 🦖)  
+
