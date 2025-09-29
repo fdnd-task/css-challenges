@@ -59,10 +59,10 @@ niet meteen spieken 🫣
 (pdf 2MB)  
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/ogbXEQo" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/xbZVPgO" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/live/qEbdxQX" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/shooft/pen/LEGNOxx" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
 (CodePen)    
 
 ---
@@ -76,10 +76,10 @@ niet meteen spieken 🫣
 (pdf 2MB)  
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/xbZGYBr" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/dPGMZNW" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/live/GgoJQeY" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/shooft/pen/YPwqENx" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
 (CodePen)    
 
 ---
