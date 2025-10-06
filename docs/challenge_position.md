@@ -4,17 +4,12 @@
 
 # CSS challenge: Position
 
-🗓️ ⸺ **Dinsdag 7 oktober**  
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🙋 ⸺ even aanmelden - max 24  
-
-
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge5-Positioneren-intro.pdf" target="_blank" rel="noopener noreferrer">Position intro</a> 
-(pdf 2MB)  
+<a href="pres/FDND-CSSchallenge5-Positioneren-intro.pdf" target="_blank" rel="noopener noreferrer">Position intro</a> 
+(pdf)  
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge5-JS-3stap-intro.pdf" target="_blank" rel="noopener noreferrer">JS 3-stap intro</a> 
-(pdf 4MB)  
+<a href="pres/FDND-CSSchallenge5-JS-3stap-intro.pdf" target="_blank" rel="noopener noreferrer">JS 3-stap intro</a> 
+(pdf)  
 
 ---
 
@@ -23,14 +18,14 @@
 📊 ⸺ 🟦 🟥 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening1.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 1</a> 
+<a href="pres/FDND-CSSchallenge5-Positioneren-oefening1.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 1</a> 
 (pdf 10MB)
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/GRVWyZg" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/RNrKvrJ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/VwopZpb" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/GgorzoX" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)
 
 niet meteen spieken 🫣  
@@ -42,31 +37,31 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening2.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 2</a> 
+<a href="pres/FDND-CSSchallenge5-Positioneren-oefening2.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 2</a> 
 (pdf 9MB)  
 
 2-buttons hamburger menu  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/qBerVXx" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/wBMgNgb" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/dyxvZzK" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/emJgxzz" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen) 
 
 fixed-button hamburger menu  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/poMepOV" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/qEOpvZK" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/eYqvyLP" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/EaPZryW" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen) 
 
 moving-button hamburger menu  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/qBerpgW" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/wBMgNdb" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/vYoxpwK" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/shooft/live/xbZgMOr" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen) 
 
 ---
@@ -76,15 +71,24 @@ moving-button hamburger menu
 📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge5-Positioneren-oefening3.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 3</a> 
+<a href="pres/FDND-CSSchallenge5-Positioneren-oefening3.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 3</a> 
 (pdf 2MB)
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/yLmMvwB" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/PwZWLbP" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/abeJbVq" target="_blank" rel="noopener noreferrer">Uitwerking</a>
-(CodePen)
+<a href="https://codepen.io/shooft/pen/OPMWqbM" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+(CodePen)   
+
+met transitie
+
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/RNrKdVw" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/GgoremJ" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+(CodePen)   
 
 ---
  

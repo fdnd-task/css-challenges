@@ -4,10 +4,6 @@
 
 # CSS challenge: Flexbox
 
-🗓️ ⸺ **Dinsdag 30 sepetember**  
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🙋 ⸺ even aanmelden - max 24  
-
 📗 ⸺
 <a href="pres/FDND-CSSchallenge4-Flexbox-intro.pdf" target="_blank" rel="noopener noreferrer">Flexbox intro</a> 
 (pdf 2.5MB)  
