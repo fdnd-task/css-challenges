@@ -18,7 +18,7 @@
 📊 ⸺ 🟦 🟥 
 
 📙 ⸺ 
-<a href="pres/FDND-CSSchallenge5-Positioneren-oefening1.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 1</a> 
+<a href="pres/FDND-CSSchallenge5-Positioneren-Oefening1.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 1</a> 
 (pdf 10MB)
 
 🧑‍💻 ⸺
@@ -37,7 +37,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥 
 
 📙 ⸺ 
-<a href="pres/FDND-CSSchallenge5-Positioneren-oefening2.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 2</a> 
+<a href="pres/FDND-CSSchallenge5-Positioneren-Oefening2.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 2</a> 
 (pdf 9MB)  
 
 2-buttons hamburger menu  
@@ -71,7 +71,7 @@ moving-button hamburger menu
 📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-CSSchallenge5-Positioneren-oefening3.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 3</a> 
+<a href="pres/FDND-CSSchallenge5-Positioneren-Oefening3.pdf" target="_blank" rel="noopener noreferrer">Positioneren oefening 3</a> 
 (pdf 2MB)
 
 🧑‍💻 ⸺
