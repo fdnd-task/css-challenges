@@ -2,11 +2,7 @@
 
 ---
 
-# CSS challenge: high-def colors
-
-🗓️ ⸺ **Dinsdag 11 februari**  
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🙋 ⸺ even aanmelden - max 24  
+# CSS challenge: high-def colors 
 
 📗 ⸺
 <a href="pres/FDND-2425-CSSchallenge10-colors.pdf" target="_blank" rel="noopener noreferrer">high-def colors intro</a> 
