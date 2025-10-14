@@ -2,11 +2,20 @@
 
 ---
 
-# CSS challenge: high-def colors 
+# CSS challenge: kleurtjes
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge10-colors.pdf" target="_blank" rel="noopener noreferrer">high-def colors intro</a> 
-(pdf 6MB)   
+<a href="pres/FDND-CSSchallenge6-colors-intro.pdf" target="_blank" rel="noopener noreferrer">colors intro</a> 
+(pdf 3MB)   
+<a href="pres/FDND-CSSchallenge6-lightdark-intro.pdf" target="_blank" rel="noopener noreferrer">lightdark intro</a> 
+(pdf 1MB)   
+
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/azdyaQP" target="_blank" rel="noopener noreferrer">LightDark sample</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/xbZLyWb" target="_blank" rel="noopener noreferrer">Color icons sample</a>
+(CodePen)  
 
 ---
 
@@ -49,10 +58,29 @@ Lekker de grenzen verkennen.
 
 ---
 
+## Oefening 4: 🐼 Lightdark challenge
+
+Maak iets moois (of beter, maak wat heel lelijks ").
+
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/RNrLwmq" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/live/wBMrvgQ" target="_blank" rel="noopener noreferrer">Lelijk voorbeeld</a>
+(CodePen)
+
+---
+
 ## Links
+
+
+
+🎯 ⸺ [A pragmatic guide to modern CSS colours](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/) (kevin powell 🧑‍💻)  
 
 🎯 ⸺ [oklch mixer](https://oklch.com) (evil martians 🧑‍💻)  
 🎯 ⸺ [color-mix](https://developer.chrome.com/docs/css-ui/css-color-mix) (developer.chrome.com 🦖)  
 🎯 ⸺ [animate gradients](https://css-tricks.com/using-property-for-css-custom-properties/) (css tricks 🪄)  
 🎯 ⸺ [@property](https://developer.mozilla.org/en-US/docs/Web/CSS/@property) (MDN 🦊)  
 🎯 ⸺ [border-image](https://css-tricks.com/almanac/properties/b/border-image/) (css tricks 🪄)  
+
+🎯 ⸺ [light en dark met radio buttons](https://web.dev/articles/light-dark) (web.dev 🦖)  

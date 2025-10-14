@@ -7,10 +7,10 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
-### dinsdag 7 okt 
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🍔 ⸺ challenge 5: **[position](challenge_position.md)**   
-📊 ⸺ niveau: starters en wat verder  
+### dinsdag 14 okt
+⏰ ⸺ **9:30 - ca 12:30 uur**  
+⚗️ ⸺ challenge 6: **[kleurtjes](challenge_colors.md)**  
+📊 ⸺ niveau: starters tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24   
 
 
@@ -19,26 +19,32 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Done 2025/26
 
+### dinsdag 7 okt 
+⏰ ⸺ **9:30 - ca 12:30 uur**  
+🍔 ⸺ challenge 5: **[position](challenge_position.md)**   
+📊 ⸺ niveau: starters en wat verder  
+🙋 ⸺ voor: even aanmelden - max 24  
+
 ### dinsdag 30 sep 
-⏰ ⸺ **9:30 - ca 11:30 uur**  
+⏰ ⸺ **9:30 - ca 12:30 uur**  
 🏋️ ⸺ challenge 4: **[flexbox](challenge_flexbox.md)**   
 📊 ⸺ niveau: starters  
 🙋 ⸺ voor: even aanmelden - max 24   
 
 ### dinsdag 23 sep 
-⏰ ⸺ **9:30 - ca 11:30 uur**  
+⏰ ⸺ **9:30 - ca 12:30 uur**  
 🌈 ⸺ challenge 3: **[gradients](challenge_gradients.md)**  
 📊 ⸺ niveau: van starters tot wizard  
 🙋 ⸺ voor: even aanmelden - max 24   
 
 ### dinsdag 16 sep 
-⏰ ⸺ **9:30 - ca 11:30 uur**  
+⏰ ⸺ **9:30 - ca 12:30 uur**  
 🐛 ⸺ challenge 2: **[transform en transities](challenge_transform.md)**  
 📊 ⸺ niveau: all  
 🙋 ⸺ voor: even aanmelden - max 24    
 
 ### dinsdag 9 sep
-⏰ ⸺ **9:30 - ca 11:30 uur**  
+⏰ ⸺ **9:30 - ca 12:30 uur**  
 🍱 ⸺ challenge 1: **[grid](challenge_grid.md)**  
 📊 ⸺ niveau: all  
 🙋 ⸺ voor: even aanmelden - max 24  
