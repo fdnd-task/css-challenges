@@ -7,6 +7,7 @@
 📗 ⸺
 <a href="pres/FDND-CSSchallenge6-colors-intro.pdf" target="_blank" rel="noopener noreferrer">colors intro</a> 
 (pdf 3MB)   
+📗 ⸺
 <a href="pres/FDND-CSSchallenge6-lightdark-intro.pdf" target="_blank" rel="noopener noreferrer">lightdark intro</a> 
 (pdf 1MB)   
 
@@ -60,7 +61,7 @@ Lekker de grenzen verkennen.
 
 ## Oefening 4: 🐼 Lightdark challenge
 
-Maak iets moois (of beter, maak wat heel lelijks ").
+Maak iets moois (of beter, maak wat heel lelijks :).
 
 🧑‍💻 ⸺
 <a href="https://codepen.io/shooft/pen/RNrLwmq" target="_blank" rel="noopener noreferrer">Code voor jou</a>
