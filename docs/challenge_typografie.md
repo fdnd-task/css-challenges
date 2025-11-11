@@ -6,7 +6,7 @@
  
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge6-Fonts-intro.pdf" target="_blank" rel="noopener noreferrer">Fonts en font-properties intro</a> 
+<a href="pres/FDND-CSSchallenge7-Fonts-intro.pdf" target="_blank" rel="noopener noreferrer">Fonts en font-properties intro</a> 
 (pdf 3MB)   
 
 ---
@@ -22,7 +22,7 @@
 📊 ⸺ 🟦 🟥
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge6-Fonts-oefening1.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 1</a> 
+<a href="pres/FDND-CSSchallenge7-Fonts-oefening1.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 1</a> 
 (pdf)
 
 🧑‍💻 ⸺
@@ -38,7 +38,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥 ⬛️  
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge6-Fonts-oefening2.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 2</a> 
+<a href="pres/FDND-CSSchallenge7-Fonts-oefening2.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 2</a> 
 (pdf 3MB)
 
 🧑‍💻 ⸺
@@ -57,7 +57,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥 ⬛️  
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge6-Fonts-oefening3.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 3</a> 
+<a href="pres/FDND-CSSchallenge7-Fonts-oefening3.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 3</a> 
 (pdf 3MB)
 
 🧑‍💻 ⸺
