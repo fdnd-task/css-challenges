@@ -21,28 +21,28 @@
 <a href="pres/FDND-CSSchallenge8-States-oefening1.pdf" target="_blank" rel="noopener noreferrer">States oefening 1</a> 
 (pdf)
 
-### Buttons
+**Buttons**  
 🧑‍💻 ⸺ 
 <a href="https://codepen.io/shooft/live/pvyNzpQ" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
 <a href="https://codepen.io/shooft/pen/YPqNvMW" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
 <a href="https://codepen.io/shooft/pen/pvyNzpQ" target="_blank" rel="noopener noreferrer">uitwerking</a> 
 (CodePen)  
 
-### Tekstvelden en co
+**Tekstvelden en co**  
 🧑‍💻 ⸺ 
 <a href="https://codepen.io/shooft/live/JoXEveB" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
 <a href="https://codepen.io/shooft/pen/myPRKgR" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
 <a href="https://codepen.io/shooft/pen/JoXEveB" target="_blank" rel="noopener noreferrer">uitwerking</a> 
 (CodePen)  
 
-### Checkboxes en radio buttons
+**Checkboxes en radio buttons**  
 🧑‍💻 ⸺ 
 <a href="https://codepen.io/shooft/live/xbVgjQz" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
 <a href="https://codepen.io/shooft/pen/OPNWEGj" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
 <a href="https://codepen.io/shooft/pen/xbVgjQz" target="_blank" rel="noopener noreferrer">uitwerking</a> 
 (CodePen)  
 
-### Ranges
+**Ranges**  
 🧑‍💻 ⸺ 
 <a href="https://codepen.io/shooft/live/EaKZLOE" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
 <a href="https://codepen.io/shooft/pen/wBGgXZP" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
