@@ -4,15 +4,11 @@
 
 # CSS challenge: States van buttons, controls en co (en :has() )
 
-🗓️ ⸺ **Dinsdag 26 november**  
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🙋 ⸺ even aanmelden - max 24  
-
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge7-States-intro.pdf" target="_blank" rel="noopener noreferrer">States intro</a> 
+<a href="pres/FDND-CSSchallenge8-States-intro.pdf" target="_blank" rel="noopener noreferrer">States intro</a> 
 (pdf)   
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge7-Has-intro.pdf" target="_blank" rel="noopener noreferrer">:has() intro</a> 
+<a href="pres/FDND-CSSchallenge8-Has-intro.pdf" target="_blank" rel="noopener noreferrer">:has() intro</a> 
 (pdf 1MB)   
 
 ---
@@ -22,15 +18,29 @@
 📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge7-States-oefening1.pdf" target="_blank" rel="noopener noreferrer">States oefening 1</a> 
+<a href="pres/FDND-CSSchallenge8-States-oefening1.pdf" target="_blank" rel="noopener noreferrer">States oefening 1</a> 
 (pdf)
 
-🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/dPbbOXr" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+🧑‍💻 ⸺ Buttons: 
+<a href="https://codepen.io/shooft/live/pvyNzpQ" target="_blank" rel="noopener noreferrer">voorbeeld</a>, 
+<a href="https://codepen.io/shooft/pen/YPqNvMW" target="_blank" rel="noopener noreferrer">code voor jou</a>, 
+<a href="https://codepen.io/shooft/pen/pvyNzpQ" target="_blank" rel="noopener noreferrer">uitweking</a> 
 (CodePen)  
-🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/oNKKRVg" target="_blank" rel="noopener noreferrer">Uitwerking</a>
-(CodePen)
+🧑‍💻 ⸺ tekstvelden en co
+<a href="https://codepen.io/shooft/live/JoXEveB" target="_blank" rel="noopener noreferrer">voorbeeld</a>, 
+<a href="https://codepen.io/shooft/pen/myPRKgR" target="_blank" rel="noopener noreferrer">code voor jou</a>, 
+<a href="https://codepen.io/shooft/pen/JoXEveB" target="_blank" rel="noopener noreferrer">uitweking</a> 
+(CodePen)  
+🧑‍💻 ⸺ check en radio
+<a href="https://codepen.io/shooft/live/xbVgjQz" target="_blank" rel="noopener noreferrer">voorbeeld</a>, 
+<a href="https://codepen.io/shooft/pen/OPNWEGj" target="_blank" rel="noopener noreferrer">code voor jou</a>, 
+<a href="https://codepen.io/shooft/pen/xbVgjQz" target="_blank" rel="noopener noreferrer">uitweking</a> 
+(CodePen)  
+🧑‍💻 ⸺ ranges
+<a href="https://codepen.io/shooft/live/EaKZLOE" target="_blank" rel="noopener noreferrer">voorbeeld</a>, 
+<a href="https://codepen.io/shooft/pen/wBGgXZP" target="_blank" rel="noopener noreferrer">code voor jou</a>, 
+<a href="https://codepen.io/shooft/pen/EaKZLOE" target="_blank" rel="noopener noreferrer">uitweking</a> 
+(CodePen)  
 
 niet meteen spieken 🫣  
 
@@ -41,7 +51,7 @@ niet meteen spieken 🫣
 📊 ⸺ 🟦 🟥 ⬛️ 
 
 📙 ⸺ 
-<a href="pres/FDND-2425-CSSchallenge7-States-oefening2.pdf" target="_blank" rel="noopener noreferrer">States oefening 2</a> 
+<a href="pres/FDND-CSSchallenge8-States-oefening2.pdf" target="_blank" rel="noopener noreferrer">States oefening 2</a> 
 (pdf)
 
 🧑‍💻 ⸺
