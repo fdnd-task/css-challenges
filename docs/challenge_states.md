@@ -28,11 +28,11 @@
 (CodePen)  
 🧑‍💻 ⸺ Tekstvelden en co: 
 <a href="https://codepen.io/shooft/live/JoXEveB" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
-<a href="https://codepen.io/shooft/pen/myPRKgR" target="_blank" rel="noopener noreferrer">code voor jou</a> ::  
+<a href="https://codepen.io/shooft/pen/myPRKgR" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
 <a href="https://codepen.io/shooft/pen/JoXEveB" target="_blank" rel="noopener noreferrer">uitweking</a> 
 (CodePen)  
 🧑‍💻 ⸺ Checkboxes en radio buttons: 
-<a href="https://codepen.io/shooft/live/xbVgjQz" target="_blank" rel="noopener noreferrer">voorbeeld</a> ::  
+<a href="https://codepen.io/shooft/live/xbVgjQz" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
 <a href="https://codepen.io/shooft/pen/OPNWEGj" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
 <a href="https://codepen.io/shooft/pen/xbVgjQz" target="_blank" rel="noopener noreferrer">uitweking</a> 
 (CodePen)  
