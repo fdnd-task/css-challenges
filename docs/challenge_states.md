@@ -38,7 +38,7 @@
 (CodePen)  
 🧑‍💻 ⸺ Ranges: 
 <a href="https://codepen.io/shooft/live/EaKZLOE" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
-<a href="https://codepen.io/shooft/pen/wBGgXZP" target="_blank" rel="noopener noreferrer">code voor jou</a> ::  
+<a href="https://codepen.io/shooft/pen/wBGgXZP" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
 <a href="https://codepen.io/shooft/pen/EaKZLOE" target="_blank" rel="noopener noreferrer">uitweking</a> 
 (CodePen)  
 
