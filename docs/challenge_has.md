@@ -4,10 +4,6 @@
 
 # CSS challenge: :has()
 
-🗓️ ⸺ **Dinsdag 4 februari**  
-⏰ ⸺ **9:30 - ca 11:30 uur**  
-🙋 ⸺ even aanmelden - max 24  
-
 📗 ⸺
 <a href="pres/FDND-2425-CSSchallenge9-Has-intro.pdf" target="_blank" rel="noopener noreferrer">:has() intro</a> 
 (pdf)   
