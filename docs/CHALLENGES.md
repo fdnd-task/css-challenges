@@ -9,7 +9,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ### dinsdag 2 dec
 ⏰ ⸺ **9:30 - ca 11:30 uur**  
-🪄 ⸺ challenge 9: **[animations + beetje JS](challenge_animate.md)**  
+🐸 ⸺ challenge 9: **[animations + beetje JS](challenge_animate.md)**  
 📊 ⸺ niveau: starters en verder   
 🙋 ⸺ voor: even aanmelden - max 24  
 
