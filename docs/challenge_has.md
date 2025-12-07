@@ -5,7 +5,7 @@
 # CSS challenge: :has()
 
 📗 ⸺
-<a href="pres/FDND-2425-CSSchallenge9-Has-intro.pdf" target="_blank" rel="noopener noreferrer">:has() intro</a> 
+<a href="FDND-CSSchallenge10-has.pdf" target="_blank" rel="noopener noreferrer">:has() intro</a> 
 (pdf)   
 
 ---
@@ -22,33 +22,48 @@
 
 📊 ⸺ 🟦 🟥 ⬛️ 
 
-Maak de blokes na. Tot sommetje 9 goed te doen, daarna lastiger.
+Maak de blokes na. Tot sommetje 8 goed te doen, daarna lastiger.
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/VYZZmdZ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/OPNrVWz" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/OJKKeaw" target="_blank" rel="noopener noreferrer">Voorbeeld/Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/wBGQbmE" target="_blank" rel="noopener noreferrer">Voorbeeld/Uitwerking</a>
 (CodePen)
 
 ---
  
-## Oefening 2: 🏷️ :has() cards
+## Oefening 2: 🎛️ :has() settings
+
+📊 ⸺ 🟦 🟥 ⬛️ 
+
+Zorg dat de settings werken.
+
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/OPNrVpQ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🧑‍💻 ⸺
+<a href="https://codepen.io/shooft/pen/WbwYByP" target="_blank" rel="noopener noreferrer">Voorbeeld/Uitwerking</a>
+(CodePen)
+
+---
+
+## Oefening 3: 🏷️ :has() cards
 
 📊 ⸺ 🟥 ⬛️ 
 
 Pas de layout (en uiterlijk) van de cards (articles) aan afhankelijk van welke content de card bevat.
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/VYZNEXV" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/xbVmGrw" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/raBbZrO" target="_blank" rel="noopener noreferrer">Voorbeeld/Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/LENMVNG" target="_blank" rel="noopener noreferrer">Voorbeeld/Uitwerking</a>
 (CodePen)
 
 ---
 
-## Oefening 3: 🔍 :has() magnify
+## Oefening 4: 🔍 :has() magnify
 
 📊 ⸺ 🟥 ⬛️ 
 
@@ -57,26 +72,25 @@ Pas de layout (en uiterlijk) van de cards (articles) aan afhankelijk van welke c
 - Maak de li's voor en na die li's ook ietsje groter
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/WbeWagw" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/pvyqJPG" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/ZYzZqWp" target="_blank" rel="noopener noreferrer">Voorbeeld/Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/raeoNMW" target="_blank" rel="noopener noreferrer">Voorbeeld/Uitwerking</a>
 (CodePen)
 
 ---
 
-## Oefening 4: 🔍 :has() lightdark (met @supports)
+## Oefening 5: 🔍 :has() carousel en accordion
 
 📊 ⸺ 🟥 ⬛️ 
 
-- Een licht en donker thema met :has(), color-scheme en light-dark()
-- Gebruik @supports of te controleren of de browser light-dark() ondersteund
+- Maak de carousels en accordion af
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/EaYJdrL" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/shooft/pen/vEGvOxm" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/raBbqej" target="_blank" rel="noopener noreferrer">Voorbeeld/Uitwerking</a>
+<a href="https://codepen.io/shooft/pen/YPqOMxp" target="_blank" rel="noopener noreferrer">Voorbeeld/Uitwerking</a>
 (CodePen)
 
 ---
