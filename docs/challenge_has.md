@@ -80,7 +80,7 @@ Pas de layout (en uiterlijk) van de cards (articles) aan afhankelijk van welke c
 
 ---
 
-## Oefening 5: 🔍 :has() carousel en accordion
+## Oefening 5: 🪗 :has() carousel en accordion
 
 📊 ⸺ 🟥 ⬛️ 
 
