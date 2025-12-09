@@ -5,7 +5,7 @@
 # CSS challenge: :has()
 
 📗 ⸺
-<a href="FDND-CSSchallenge10-has.pdf" target="_blank" rel="noopener noreferrer">:has() intro</a> 
+<a href="pres/FDND-CSSchallenge10-has.pdf" target="_blank" rel="noopener noreferrer">:has() intro</a> 
 (pdf)   
 
 ---
