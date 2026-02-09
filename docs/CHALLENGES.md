@@ -7,20 +7,27 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
+### dinsdag 10 feb
+⏰ ⸺ **9:30 - ca 12:30 uur**  
+🪤 ⸺ challenge 12: **[container queries & units](challenge_containers.md)**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24   
 
+<hr>
+
+## Done 2025/26
+
+### dinsdag 16 dec
+⏰ ⸺ **9:30 - ca 12:30 uur**  
+🪄 ⸺ challenge 11: **srcoll driven animations**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
 
 ### dinsdag 9 dec
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
 🪄 ⸺ challenge 10: **[:has()](challenge_has.md)**  
 📊 ⸺ niveau: medium tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
-
-
-dan verder in 2026
-
-<hr>
-
-## Done 2025/26
 
 ### dinsdag 2 dec
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
