@@ -23,7 +23,6 @@ Stappen:
 3. width > 40em → tekst en icons in a's in header naast elkaar  
 4. width > 40em → grotere padiing voor de header  
 
-
 5. width > 27em → nieuwe layout voor de cards (li's)  
 6. width > 27em → img in de cards groter  
 
@@ -41,6 +40,11 @@ Stappen:
 (CodePen)
 
 niet meteen spieken 🫣  
+
+Stappen:
+1. maak van de li's een container (container-type en container-name)
+2. card width > 20em → nieuwe layout voor de div  
+3. card width > 20em → de button rechtsboven in zijn cel  
 
 ---
 
