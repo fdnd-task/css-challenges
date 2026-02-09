@@ -18,13 +18,13 @@
 niet meteen spieken 🫣  
 
 Stappen:
-1. width > 30em → icons in header groter  
-2. width > 40em → icons in header nog groter  
-3. width > 40em → tekst en icons in a's in header naast elkaar  
+1. width > 30em → icons in header groter
+2. width > 40em → icons in header nog groter
+3. width > 40em → tekst en icons in a's in header naast elkaar
 4. width > 40em → grotere padiing voor de header  
 
-5. width > 27em → nieuwe layout voor de cards (li's)  
-6. width > 27em → img in de cards groter  
+5. width > 27em → nieuwe layout voor de cards (li's)
+6. width > 27em → img in de cards groter
 
 ---
 
