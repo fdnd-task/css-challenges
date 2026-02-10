@@ -60,6 +60,18 @@ Stappen:
 
 niet meteen spieken 🫣  
 
+Stappen:
+1. main → width > 48em → 2 gelijke kolommen (media query)
+2. section.hero → 4 properties uncommenten
+3. ol → 2 properties uncommenten
+4. li → 5 properties uncommenten
+5. section.stappen → container maken (type en name)
+6. ol → width > 36em → 3 gelijke kolommen
+7. li → width > 36em → andere layout
+8. main img → width > 36em → witruimte boven en onder
+9. ol → hele hoogte vullen  
+10. li → width > 36em → nog een beetje tweaken
+
 ---
 
 ## Oefening 3: 🐡 Container queries units
