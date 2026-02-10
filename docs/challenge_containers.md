@@ -87,6 +87,13 @@ Stappen:
 
 niet meteen spieken 🫣  
 
+Stappen:
+1. main img → breedte
+2. p → font-size
+3. ol → padding
+4. section.hero → container
+5. h1 → font-size
+
 ---
  
 ## Links
