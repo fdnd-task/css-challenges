@@ -143,7 +143,7 @@ In index.css het volgende doen:
 En het volgende doen in details.css:
 - de h1 een `view-transition-name` geven (gebruik daarvoor `var(--vt)`)
 - de img `view-transition-name` geven (gebruik daarvoor `var(--vt)`)
-- de h2 een `view-transition-class` geven (gebruik daarvoor `title`). De class kun je gebruiken om een animatie voor alle h2's tegelijk te definieren (dan hoeft dat niet los voor elk karakter)
+- de h1 een `view-transition-class` geven (gebruik daarvoor `title`). De class kun je gebruiken om een animatie voor alle h2's tegelijk te definieren (dan hoeft dat niet los voor elk karakter)
 - de image's een `view-transition-class` geven (gebruik daarvoor `image`).
 - de `view-transition-group` van de h1 een duration geven (gebruik de `view-transition-class`)
 - de `view-transition-group` van de img een duration geven (gebruik de `view-transition-class`)
