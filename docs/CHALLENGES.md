@@ -21,7 +21,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ### dinsdag 3 maart
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
-🎭 ⸺ challenge 13: **[view transitions](challenge_view-transitions.md)**  
+👋 ⸺ challenge 13: **[view transitions](challenge_view-transitions.md)**  
 📊 ⸺ niveau: medium tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
 
