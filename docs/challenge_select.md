@@ -4,10 +4,6 @@
 
 # CSS challenge: Customizable select
 
-🗓️ ⸺ **dinsdag 15 april**  
-⏰ ⸺ **9:30 - ca 11:30 uur**   
-🙋 ⸺ even aanmelden - max 24   
-
 ---
 
 ## Samples

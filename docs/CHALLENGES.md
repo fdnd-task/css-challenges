@@ -7,15 +7,23 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
- ### dinsdag 3 maart
+
+### dinsdag 17 maart
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
-🪤 ⸺ challenge 13: **[view transitions](challenge_view-transitions.md)**  
+🎰 ⸺ challenge 14: **[customizable select](challenge_select.md)**  
 📊 ⸺ niveau: medium tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
+
 
 <hr>
 
 ## Done 2025/26
+
+### dinsdag 3 maart
+⏰ ⸺ **9:30 - ca 12:30 uur**  
+🎭 ⸺ challenge 13: **[view transitions](challenge_view-transitions.md)**  
+📊 ⸺ niveau: medium tot gevorderden   
+🙋 ⸺ voor: even aanmelden - max 24  
 
 ### dinsdag 10 feb
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
@@ -25,7 +33,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ### dinsdag 16 dec
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
-🪄 ⸺ challenge 11: **srcoll driven animations**  
+🧻 ⸺ challenge 11: **srcoll driven animations**  
 📊 ⸺ niveau: medium tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
 
