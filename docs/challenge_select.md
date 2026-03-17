@@ -67,7 +67,7 @@ Bekijk de samples (of de bronnen) en maak de gegeven \<select\>'s na.
 <a href="https://codepen.io/shooft/pen/LEEPQyQ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🌶️🌶️ ⸺ curved select:
-<a href="https://codepen.io/shooft/pen/myrWNww" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
+<a href="https://codepen.io/shooft/live/myrWNww" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/OPRmgLL" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🌶️🌶️🌶️ ⸺ square select:
