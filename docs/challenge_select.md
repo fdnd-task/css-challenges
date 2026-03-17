@@ -62,14 +62,20 @@ Bekijk de samples (of de bronnen) en maak de gegeven \<select\>'s na.
 <a href="https://codepen.io/shooft/live/VYYZzxW" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/JooPpNO" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
-🌶️ ⸺ radial select:
+🌶️🌶️ ⸺ radial select:
 <a href="https://codepen.io/shooft/live/MYYgERo" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/LEEPQyQ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
-🌶️ ⸺ square select:
-<a href="https://codepen.io/shooft/live/emmOeLP" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
+🌶️🌶️ ⸺ curved select:
+<a href="https://codepen.io/shooft/pen/myrWNww" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
+<a href="https://codepen.io/shooft/pen/OPRmgLL" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen)  
+🌶️🌶️🌶️ ⸺ square select:
+<a href="https://codepen.io/shooft/live/LEEVyZN" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/oggvEWq" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
+
+
 
 
 ---
