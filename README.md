@@ -12,5 +12,5 @@ This project is licensed under the terms of the [MIT license](./LICENCE).
 
 <figure>
   <img src="assets/css-day-is-awesome.png" alt="CSS Day is Awesome" width="100%"/>
-  <figcaption>bron: <a href="https://cssday.nl/2023"><strong>CSS day</strong> 2023</a></figcaption>
+  <figcaption>bron: <a href="https://cssday.nl/2024"><strong>CSS day</strong> 2024</a></figcaption>
 </figure>
