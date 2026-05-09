@@ -80,7 +80,7 @@ Bekijk de samples (of de bronnen) en maak de gegeven stuck's na.
 🧑‍💻 ⸺ hidy/showy menu:
 <a href="https://codepen.io/shooft/pen/wBoGqgp" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/raWezQN" target="_blank" rel="noopener noreferrer">Code voor jou</a> & 
-<a href="https://codepen.io/shooft/pen/zxoqddO" target="_blank" rel="noopener noreferrer">Voorbeeld </a> 
+<a href="https://codepen.io/shooft/pen/zxoqddO" target="_blank" rel="noopener noreferrer">Voorbeeld met scroll-spy</a> 
 (CodePen) 
 
 ---
