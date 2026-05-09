@@ -9,7 +9,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ### dinsdag 12 mei
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
-🪅 ⸺ challenge 15: **[stuck, snapped, scrollable (en carousels)](challenge_scroll-state.md)**  
+🪅 ⸺ challenge 15: **[stuck, snapped, scrollable, scrolled (en carousels)](challenge_scroll-state.md)**  
 📊 ⸺ niveau: medium tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
 

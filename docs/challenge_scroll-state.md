@@ -2,7 +2,7 @@
 
 ---
 
-# CSS challenge: Stuck, snapped, scrollable (en carousels) 
+# CSS challenge: Stuck, snapped, scrollable, scrolled (en carousels) 
 
 ---
 
