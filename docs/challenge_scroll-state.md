@@ -68,7 +68,7 @@ Bekijk de samples (of de bronnen) en maak de gegeven stuck's na.
 <a href="https://codepen.io/shooft/pen/ByNzmre" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 
-🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/product/" target="_blank" rel="noopener noreferrer">product</a> uit de carousel gallery:
+🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/product/" target="_blank" rel="noopener noreferrer">product</a> uit de carousel gallery (tricky):
 <a href="https://codepen.io/shooft/pen/vEOKeVJ" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/MYweOqb" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)   
