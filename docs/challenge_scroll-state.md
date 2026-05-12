@@ -51,7 +51,31 @@ Bekijk de samples (of de bronnen) en maak de gegeven stuck's na.
 
 ---
 
-## Oefening 3 - 🎠 Carousel
+## Oefening 3 - 🛗 Scrolled
+
+🧑‍💻 ⸺ hidy/showy menu:
+<a href="https://codepen.io/shooft/pen/wBoGqgp" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
+<a href="https://codepen.io/shooft/pen/raWezQN" target="_blank" rel="noopener noreferrer">Code voor jou</a> & 
+<a href="https://codepen.io/shooft/pen/zxoqddO" target="_blank" rel="noopener noreferrer">Voorbeeld met scroll-spy</a> 
+(CodePen) 
+
+---
+
+## Oefening 4 - 🖲️ Scrollable
+
+🧑‍💻 ⸺ to top:
+<a href="https://codepen.io/shooft/pen/JobXymK" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
+<a href="https://codepen.io/shooft/pen/YPpqxJQ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen) 
+
+🧑‍💻 ⸺ scrollen met fades (tricky):
+<a href="https://codepen.io/shooft/pen/pvNywEw" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
+<a href="https://codepen.io/shooft/pen/ogYxemZ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+(CodePen) 
+
+---
+
+## Oefening 5 - 🎠 Carousel
 
 🧑‍💻 ⸺ de <a href="https://chrome.dev/carousel/horizontal/list/" target="_blank" rel="noopener noreferrer">list</a> uit de carousel gallery:
 <a href="https://codepen.io/shooft/pen/KwpMXax" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
@@ -72,30 +96,6 @@ Bekijk de samples (of de bronnen) en maak de gegeven stuck's na.
 <a href="https://codepen.io/shooft/pen/vEOKeVJ" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
 <a href="https://codepen.io/shooft/pen/MYweOqb" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)   
-
----
-
-## Oefening 4 - 🛗 Scrolled
-
-🧑‍💻 ⸺ hidy/showy menu:
-<a href="https://codepen.io/shooft/pen/wBoGqgp" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
-<a href="https://codepen.io/shooft/pen/raWezQN" target="_blank" rel="noopener noreferrer">Code voor jou</a> & 
-<a href="https://codepen.io/shooft/pen/zxoqddO" target="_blank" rel="noopener noreferrer">Voorbeeld met scroll-spy</a> 
-(CodePen) 
-
----
-
-## Oefening 5 - 🖲️ Scrollable
-
-🧑‍💻 ⸺ to top:
-<a href="https://codepen.io/shooft/pen/JobXymK" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
-<a href="https://codepen.io/shooft/pen/YPpqxJQ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
-(CodePen) 
-
-🧑‍💻 ⸺ scrollen met fades (tricky):
-<a href="https://codepen.io/shooft/pen/pvNywEw" target="_blank" rel="noopener noreferrer">Voorbeeld</a> & 
-<a href="https://codepen.io/shooft/pen/ogYxemZ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
-(CodePen) 
 
 ---
  
