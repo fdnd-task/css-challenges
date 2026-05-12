@@ -15,7 +15,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ### dinsdag 2 juni
 ⏰ ⸺ **9:30 - ca 12:30 uur**   
-🪅 ⸺ challenge 16: **de laatste**  
+🎇 ⸺ challenge 16: **de laatste**  
 📊 ⸺ niveau: medium tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
 
