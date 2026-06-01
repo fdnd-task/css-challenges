@@ -8,22 +8,20 @@
 
 ## Samples
 
-🎯 ⸺ de basics van anchor positining: [code](https://codepen.io/shooft/pen/EaNbexO) [uitwerking](https://codepen.io/shooft/pen/azBVabP) (CodePen 🎠)  
-🎯 ⸺ anchor() function: [code](https://codepen.io/shooft/pen/VYKavXd) [uitwerking](https://codepen.io/shooft/pen/RNoQVWo) (CodePen 🎠)  
-🎯 ⸺ anchor animeren: [code](https://codepen.io/shooft/pen/WboMjQz) [uitwerking](https://codepen.io/shooft/pen/jEVZmbK) (CodePen 🎠)  
+🎯 ⸺ de basics van anchor positining: [code](https://codepen.io/shooft/pen/EaNbexO) &[voorbeeld](https://codepen.io/shooft/pen/azBVabP) (CodePen 🎠)  
+🎯 ⸺ anchor() function: [code](https://codepen.io/shooft/pen/VYKavXd) & [voorbeeld](https://codepen.io/shooft/pen/RNoQVWo) (CodePen 🎠)  
+🎯 ⸺ anchor animeren: [code](https://codepen.io/shooft/pen/WboMjQz) & [voorbeeld](https://codepen.io/shooft/pen/jEVZmbK) (CodePen 🎠)  
 
 
 ---
 
 ## Oefeningen
 
-<soon>
+<soon>  
 
 ---
 
 ## Links
-
-<soon>
 
 🎯 ⸺ [The CSS anchor positioning API](https://developer.chrome.com/docs/css-ui/anchor-positioning-api) (Una Kravets 🧑‍💻)  
 🎯 ⸺ [Anchor positioning tool](https://chrome.dev/anchor-tool/) (Una Kravets 🧑‍💻)  
