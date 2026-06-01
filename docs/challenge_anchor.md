@@ -8,7 +8,7 @@
 
 ## Samples
 
-🎯 ⸺ de basics van anchor positining: [code](https://codepen.io/shooft/pen/EaNbexO) &[voorbeeld](https://codepen.io/shooft/pen/azBVabP) (CodePen 🎠)  
+🎯 ⸺ de basics van anchor positining: [code](https://codepen.io/shooft/pen/EaNbexO) & [voorbeeld](https://codepen.io/shooft/pen/azBVabP) (CodePen 🎠)  
 🎯 ⸺ anchor() function: [code](https://codepen.io/shooft/pen/VYKavXd) & [voorbeeld](https://codepen.io/shooft/pen/RNoQVWo) (CodePen 🎠)  
 🎯 ⸺ anchor animeren: [code](https://codepen.io/shooft/pen/WboMjQz) & [voorbeeld](https://codepen.io/shooft/pen/jEVZmbK) (CodePen 🎠)  
 
@@ -17,7 +17,7 @@
 
 ## Oefeningen
 
-<soon>  
+soon
 
 ---
 
