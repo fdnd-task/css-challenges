@@ -21,7 +21,7 @@
 
 🎯 ⸺ moving focus: [code](https://codepen.io/shooft/pen/LEbQqNE) & [voorbeeld](https://codepen.io/shooft/pen/jEVZdWx) (CodePen 🎠)  
 
-🎯 ⸺ input range met output: [code](https://codepen.io/shooft/pen/LEbQqNE) & [voorbeeld](https://codepen.io/shooft/pen/jEVZdWx) (CodePen 🎠)  
+🎯 ⸺ input range met output: [code](https://codepen.io/shooft/pen/pvNaGVG) & [voorbeeld](https://codepen.io/shooft/pen/emBVxdx) (CodePen 🎠)  
 
 🎯 ⸺ scroll-spy: [code](https://codepen.io/shooft/pen/pvNaYrv) & [voorbeeld](https://codepen.io/shooft/pen/RNoQdGy) (CodePen 🎠)  
 
