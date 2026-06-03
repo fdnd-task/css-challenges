@@ -7,15 +7,17 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
+volgend jaar verder
+
+<hr>
+
+## Done 2025/26
+
 ### dinsdag 2 juni
 ⏰ ⸺ **9:30 - ca 12:30 uur**   
 🧲 ⸺ challenge 16: **[anchor positioning](challenge_anchor.md)**  
 📊 ⸺ niveau: medium tot gevorderden   
 🙋 ⸺ voor: even aanmelden - max 24  
-
-<hr>
-
-## Done 2025/26
 
 ### dinsdag 12 mei
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
