@@ -7,7 +7,7 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning
 
-volgend jaar verder
+volgend jaar verder  
 
 <hr>
 
