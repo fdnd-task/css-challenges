@@ -22,10 +22,10 @@
 (pdf)
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/oNrKpXb" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/editor/shooft/pen/01920a5d-25a2-77ae-b546-3079fb919224" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/YzomYXG" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/editor/shooft/pen/01920a5d-4111-7f9f-8040-15eda9fea1b3" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)
 
 niet meteen spieken 🫣  
@@ -41,10 +41,10 @@ niet meteen spieken 🫣
 (pdf)  
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/MWMNrKL" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/editor/shooft/pen/01920a61-2c66-717b-8a87-54b3573b78d6" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/live/eYwqyJo" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/editor/shooft/pen/01920a61-4988-7dfd-9051-6838252f9db7" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)  
 
 ---
@@ -58,10 +58,10 @@ niet meteen spieken 🫣
 (pdf)  
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/RwXwymp" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/editor/shooft/pen/0192220b-a77c-7bf4-af57-4d12acec0e92" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/live/poMoVyp" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
+<a href="https://codepen.io/editor/shooft/pen/019221c3-a61d-79a9-9e6f-819f6805a9c6" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)
 
 ---
