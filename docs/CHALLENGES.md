@@ -7,12 +7,6 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 
 ## Planning  
 
-### dinsdag 29 sep 
-⏰ ⸺ **9:30 - ca 12:30 uur**  
-🏋️ ⸺ challenge 4: **[flexbox](challenge_flexbox.md)**   
-📊 ⸺ niveau: starters  
-🙋 ⸺ voor: even aanmelden - max 24   
-
 ### dinsdag 6 okt 
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
 🍔 ⸺ challenge 5: **[position](challenge_position.md)**   
@@ -20,6 +14,12 @@ Op dinsdagen kennismaken en oefenen met CSS (en soms met JS). Soms is het onderw
 🙋 ⸺ voor: even aanmelden - max 24  
 
 ## Done 2026/27
+
+### dinsdag 29 sep 
+⏰ ⸺ **9:30 - ca 12:30 uur**  
+🏋️ ⸺ challenge 4: **[flexbox](challenge_flexbox.md)**   
+📊 ⸺ niveau: starters  
+🙋 ⸺ voor: even aanmelden - max 24   
 
 ### dinsdag 22 sep 
 ⏰ ⸺ **9:30 - ca 12:30 uur**  
