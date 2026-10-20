@@ -30,7 +30,7 @@
 ## Light Dark
 
 📗 ⸺
-<a href="pres/FDND-CSSchallenge6-lightdark-intro.pdf" target="_blank" rel="noopener noreferrer">lightdark intro</a> 
+<a href="pres/FDND-CSSchallenge6-lightdark-intro.pdf" target="_blank" rel="noopener noreferrer">light dark intro</a> 
 (pdf 9MB)   
 
 ---
@@ -63,7 +63,6 @@ Auto volgt de voorkeur die op het apparaat is ingesteld. Light en dark overrulen
 <a href="https://codepen.io/editor/shooft/pen/01a1563e-3313-716e-b14a-8f932a416ceb" target="_blank" rel="noopener noreferrer">Uitwerking met :has()</a> en 
 <a href="https://codepen.io/editor/shooft/pen/01a15653-2f12-753e-b910-35d2987425bd" target="_blank" rel="noopener noreferrer">Uitwerking met JavaScript</a> 
 (CodePen)  
-
 
 ---
 
