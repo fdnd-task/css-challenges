@@ -10,6 +10,8 @@
 <a href="pres/FDND-CSSchallenge6-colors-intro.pdf" target="_blank" rel="noopener noreferrer">colors intro</a> 
 (pdf 9MB)  
 
+---
+
 🧑‍💻 ⸺
 <a href="https://codepen.io/editor/shooft/pen/01a07174-1611-7b32-9e5c-9d31a8c8b790" target="_blank" rel="noopener noreferrer">Meetypen met kleur</a>
 (CodePen)  
@@ -40,6 +42,8 @@ Gebruik daarvoor color-scheme, custom properties en de light-dark() function.
 <a href="https://codepen.io/editor/shooft/pen/01a15633-d4b7-7a0e-9907-682df7706c90" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
 (CodePen)  
 
+---
+
 🧑‍💻 ⸺
 <a href="https://codepen.io/editor/shooft/pen/01a15387-a131-7eb0-ba40-7cca7b856956" target="_blank" rel="noopener noreferrer">Meetypen met icons</a>
 (CodePen)  
@@ -49,6 +53,8 @@ Gebruik een &lt;picture&gt; element om light en dark en klein en groot varianten
 <a href="pres/FDND-CSSchallenge6-colors-responsive-image.zip" target="_blank" rel="noopener noreferrer">Code voor jou</a> (zip) en
 <a href="https://codepen.io/editor/shooft/pen/01a068d9-ee53-716c-8f78-bb7a4cd39399" target="_blank" rel="noopener noreferrer">Voorbeeld</a>
 (CodePen)  
+
+---
 
 🧑‍💻 ⸺ Oefenen met auto light dark switches  
 Gebruik de drie radio buttons om de voorkeur voor licht of donker in te stellen.  
