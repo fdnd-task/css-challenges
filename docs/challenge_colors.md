@@ -17,6 +17,10 @@
 (CodePen)  
 
 🧑‍💻 ⸺
+<a href="https://codepen.io/editor/shooft/pen/01a1561e-2f8f-78b5-ad88-355b1ce5edaa" target="_blank" rel="noopener noreferrer">Meetypen met @supports</a>
+(CodePen)  
+
+🧑‍💻 ⸺
 <a href="https://codepen.io/editor/shooft/pen/01a07660-c614-742f-9b73-dc6165439b5f" target="_blank" rel="noopener noreferrer">Meetypen met gradients</a>
 (CodePen)  
 
