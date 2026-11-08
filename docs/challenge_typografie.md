@@ -21,9 +21,8 @@
 
 ## Oefening 1: 🌱 @font-face (opwarmen)
 
-📊 ⸺ 🟦 🟥 Maak het blokje na
-🧑‍💻 ⸺
-<a href="https://codepen.io/editor/shooft/pen/019f1d52-e54b-7bfa-be80-647a337c11c4" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
+📊 ⸺ 🟦 🟥 Maak het blokje na  
+🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f1d52-e54b-7bfa-be80-647a337c11c4" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
 <details>
   <summary>tips</summary>
@@ -32,18 +31,18 @@
   - de font-bestanden staan in de map fonts
 
   Gebruikte kleur(en)
-  - #f09 (dieproze)
+  - #f09 (dieproze)  
 
-  Je het de volgende CSS nodig
-  - @font-face (2x)
-  - main
-    - font-family
-  - main p
-    - line-height
-  -  main p::first-letter
-    - font-size
-    - font-weight
-    - color
+  Je het de volgende CSS nodig  
+  - @font-face (2x)  
+  - main  
+    - font-family  
+  - main p  
+    - line-height  
+  - main p::first-letter  
+    - font-size  
+    - font-weight  
+    - color  
 </details>
 
 ---
