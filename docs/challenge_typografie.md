@@ -7,21 +7,14 @@
 
 📗 ⸺
 <a href="pres/FDND-CSSchallenge7-Fonts-intro.pdf" target="_blank" rel="noopener noreferrer">Fonts en font-properties intro</a> 
-(pdf 3MB)   
-
----
-
-## Code
-
-🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening1.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 1</a> (zip)  
-🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening2.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 2</a> (zip)  
-🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening3.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 3</a> (zip 2MB)  
+(pdf 3MB)  
 
 ---
 
 ## Oefening 1: 🌱 @font-face (opwarmen)
 
 📊 ⸺ 🟦 🟥 Maak het blokje na  
+🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening1.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 1</a> (zip)  
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f1d52-e54b-7bfa-be80-647a337c11c4" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
 <details>
@@ -56,6 +49,7 @@
 ## Oefening 2: 🖋️ meer text- en font-properties  
 
 📊 ⸺ 🟦 🟥 Maak de twee blokjes na  
+🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening2.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 2</a> (zip)  
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f3740-f9a0-7308-8941-86d3924c9a37" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
 <details>
@@ -127,20 +121,13 @@
 
 ## Oefening 3: 🦚 Mini posters
 
-📊 ⸺ 🟦 🟥 ⬛️  
+📊 ⸺ 🟦 🟥 ⬛️  Kies postertjes uit en maak ze na  
+🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening3.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 3</a> (zip 2MB)  
+🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f3b9a-5db7-7279-8745-bd1716d9dd5b" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
-📙 ⸺ 
-<a href="pres/FDND-CSSchallenge7-Fonts-oefening2.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 2</a> 
-(pdf 3MB)
 
-🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/jOgRZeo" target="_blank" rel="noopener noreferrer">Uitwerking</a>
-(CodePen)  
-🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/yLmrvQB" target="_blank" rel="noopener noreferrer">Uitwerking met extra's</a>
-(CodePen)
 
-niet meteen spieken 🫣  
+
 
 ---
 
