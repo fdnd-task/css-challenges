@@ -96,24 +96,30 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * expletus sans (400 en 700)
+  * saira condensed (700)
   * de font-bestanden staan in de map fonts
 
   <p>Gebruikte kleur(en)</p>
  
-  * #f09 (dieproze)  
+  * rgb(230 127 138) → roze
+  * white
+  * rgb(0 0 0 / .5) → half-transparant zwart 
 
   <p>Je het de volgende CSS nodig</p>
    
   * @font-face (2x)  
-  * main  
-    * font-family  
-  * main p  
-    * line-height  
-  * main p::first-letter  
-    * font-size  
-    * font-weight  
-    * color  
+  * li:nth-of-type(2)
+    * background-color
+  * li:nth-of-type(2) h2
+    * font-family
+    * font-size
+    * line-height
+    * letter-spacing
+    * text-transform
+    * text-align
+    * text-shadow
+    * color
+    * transform → skewY
 </details>  
 
 ---
