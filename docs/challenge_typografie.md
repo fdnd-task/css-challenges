@@ -566,7 +566,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 
 ## Oefening 4: 🐛 Transitions
 
-📊 ⸺ 🟦 🟥 ⬛️  Kies mini-posters uit en maak ze na  
+📊 ⸺ 🟦 🟥 ⬛️  Voeg passende transities toe aan je mini-posters  
 🧑‍💻 ⸺ verder met de code van oefening 3    
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f4935-7764-7752-9e94-af5582d75ed5" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
