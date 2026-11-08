@@ -13,25 +13,45 @@
 
 ## Code
 
-🧑‍💻 ⸺ <a href="https://github.com/fdnd-task/css-challenge-typografie" target="_blank" rel="noopener noreferrer">Code voor oefening 1, 2 en 3</a> (GitHub - even forken)
+🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening1.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 1</a> (zip)  
+🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening2.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 2</a> (zip)  
+🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening3.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 3</a> (zip 2MB)  
 
 ---
 
-## Oefening 1: 🌱 Fonts en font-properties (opwarmen)
+## Oefening 1: 🌱 @font-face (opwarmen)
 
-📊 ⸺ 🟦 🟥
-
-📙 ⸺ 
-<a href="pres/FDND-CSSchallenge7-Fonts-oefening1.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 1</a> 
-(pdf)
-
+📊 ⸺ 🟦 🟥 Maak het blokje na
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/jOgRZZJ" target="_blank" rel="noopener noreferrer">Uitwerking</a>
-(CodePen)
+<a href="https://codepen.io/editor/shooft/pen/019f1d52-e54b-7bfa-be80-647a337c11c4" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
-niet meteen spieken 🫣  
+<details>
+  <summary>tips</summary>
+  Gebruikte lettertype(n)
+  - expletus sans (400 en 700)
+  - de font-bestanden staan in de map fonts
+
+  Gebruikte kleur(en)
+  - #f09 (dieproze)
+
+  Je het de volgende CSS nodig
+  - @font-face (2x)
+  - main
+    - font-family
+  - main p
+    - line-height
+  -  main p::first-letter
+    - font-size
+    - font-weight
+    - color
+</details>
 
 ---
+
+## Oefening 1: 🖋️ meer text- en font-properties  
+
+---
+
 
 ## Oefening 2: 🦚 Mini posters
 
