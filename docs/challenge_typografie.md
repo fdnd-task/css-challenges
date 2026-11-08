@@ -65,24 +65,28 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * expletus sans (400 en 700)
+  * montserrat (100)
   * de font-bestanden staan in de map fonts
 
   <p>Gebruikte kleur(en)</p>
  
-  * #f09 (dieproze)  
+  * rgb(0 24 54) → donkerblauw
+  * hsl(0 0% 100%) → wit
+  * cyan 
 
   <p>Je het de volgende CSS nodig</p>
    
-  * @font-face (2x)  
-  * main  
-    * font-family  
-  * main p  
-    * line-height  
-  * main p::first-letter  
-    * font-size  
-    * font-weight  
-    * color  
+  * @font-face
+  * li:nth-of-type(1)
+    * background-color
+  * li:nth-of-type(1) h2
+    * font-family
+    * font-size
+    * font-weight
+    * color
+    * line-height
+    * text-transform
+    * text-shadow 
 </details>  
 
 <details>
