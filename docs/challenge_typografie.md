@@ -27,22 +27,22 @@
 <details>
   <summary>tips</summary>
   Gebruikte lettertype(n)
-  - expletus sans (400 en 700)
-  - de font-bestanden staan in de map fonts
+  * expletus sans (400 en 700)
+  * de font-bestanden staan in de map fonts
 
   Gebruikte kleur(en)
-  - #f09 (dieproze)  
+  * #f09 (dieproze)  
 
   Je het de volgende CSS nodig  
-  - @font-face (2x)  
-  - main  
-    - font-family  
-  - main p  
-    - line-height  
-  - main p::first-letter  
-    - font-size  
-    - font-weight  
-    - color  
+  * @font-face (2x)  
+  * main  
+    * font-family  
+  * main p  
+    * line-height  
+  * main p::first-letter  
+    * font-size  
+    * font-weight  
+    * color  
 </details>
 
 ---
