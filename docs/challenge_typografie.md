@@ -26,7 +26,8 @@
 
 <details>
   <summary>tips</summary>
-  Gebruikte lettertype(n)
+  <p>Gebruikte lettertype(n)</>
+ 
   * expletus sans (400 en 700)
   * de font-bestanden staan in de map fonts
 
