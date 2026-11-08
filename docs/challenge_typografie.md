@@ -53,12 +53,69 @@
 
 ---
 
-## Oefening 1: 🖋️ meer text- en font-properties  
+## Oefening 2: 🖋️ meer text- en font-properties  
+
+📊 ⸺ 🟦 🟥 Maak de twee blokjes na  
+🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f3740-f9a0-7308-8941-86d3924c9a37" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
+
+<details>
+  <summary>tips you go girl</summary>
+
+  <img src="images/challenge_typografie-you-go-girl.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * expletus sans (400 en 700)
+  * de font-bestanden staan in de map fonts
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * #f09 (dieproze)  
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * @font-face (2x)  
+  * main  
+    * font-family  
+  * main p  
+    * line-height  
+  * main p::first-letter  
+    * font-size  
+    * font-weight  
+    * color  
+</details>  
+
+<details>
+  <summary>tips good vibes only</summary>
+
+  <img src="images/challenge_typografie-good-vibes-only.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * expletus sans (400 en 700)
+  * de font-bestanden staan in de map fonts
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * #f09 (dieproze)  
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * @font-face (2x)  
+  * main  
+    * font-family  
+  * main p  
+    * line-height  
+  * main p::first-letter  
+    * font-size  
+    * font-weight  
+    * color  
+</details>  
 
 ---
 
 
-## Oefening 2: 🦚 Mini posters
+## Oefening 3: 🦚 Mini posters
 
 📊 ⸺ 🟦 🟥 ⬛️  
 
