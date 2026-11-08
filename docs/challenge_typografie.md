@@ -26,17 +26,17 @@
 
 <details>
   <summary>tips</summary>
-  Gebruikte lettertype(n)  
+  <p>Gebruikte lettertype(n)</p>  
  
   * expletus sans (400 en 700)
   * de font-bestanden staan in de map fonts
 
-  Gebruikte kleur(en)  
-
+  <p>Gebruikte kleur(en)</p>
+ 
   * #f09 (dieproze)  
 
-  Je het de volgende CSS nodig  
-
+  <p>Je het de volgende CSS nodig</p>
+   
   * @font-face (2x)  
   * main  
     * font-family  
