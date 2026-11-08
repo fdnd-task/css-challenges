@@ -125,6 +125,8 @@
 🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening3.zip" target="_blank" rel="noopener noreferrer">Code voor jou</a> (zip 2MB)  
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f3b9a-5db7-7279-8745-bd1716d9dd5b" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
+De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij anders aangegeven).  
+
 <details>
   <summary><h3>tips Myst</h3></summary>
 
@@ -132,15 +134,17 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * black han (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * rgb(60% 60% 60%) → grijs
+  * rgb(0% 0% 0% / .5) → half-transparent zwart
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * text-transform (alles in hoofdletters doe je met CSS - niet in de HTML)
+  * text-shadow
 </details>  
 
 <details>
@@ -150,15 +154,19 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * ubuntu (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * imegreen
+  * midnightblue
+  * white
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * linear-gradient
+  * -webkit-text-stroke-color
+  * -webkit-text-stroke-width
 </details>  
 
 <details>
@@ -168,15 +176,19 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * ubuntu (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * cyan
+  * midnightblue
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * background-image (balloons)
+  * background-size
+  * background-position
+  * google "css gradient text"
 </details>  
 
 <details>
@@ -186,15 +198,19 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * aldrich (400)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * white
+  * cyan
+  * magenta
+  * yellow
+  * black
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * text-shadow (4x - met komma's ertussen)
 </details>  
 
 <details>
@@ -204,15 +220,22 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * montserrat alternates (100)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * LightSkyBlue
+  * SteelBlue
+  * White
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * background-image & background-size
+  * padding
+  * linear-gradient
+  * border
+  * border-radius
+  * box-shadow
 </details>  
 
 <details>
@@ -222,15 +245,22 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * black han (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * Red
+  * Blue
+  * White
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * voor de vs mag je een &lt;em&gt; element gebruiken in de &lt;h2&gt; (een &lt;em&gt; element gebruik je om content nadruk te geven)
+  * linear-gradient (met een angle en color-stops)
+  * rotate
+  * -webkit-text-stroke-color
+  * -webkit-text-stroke-width
+  * letter-spacing
 </details>  
 
 <details>
@@ -240,15 +270,22 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * bitcount prop double (400)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * #ff3300 (dieporanje)
+  * #66ccff lichtblauw
+  * #000066 (donkerblauw)
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * rotatepadding
+  * border
+  * border-radius
+  * corner-shape (voor de hapjes - chrome-only voor nu)
+  * box-shadow
+  * letter-spacing
 </details>  
 
 <details>
@@ -258,15 +295,20 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * dyna puff (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * Yellow
+  * LimeGreen
+  * White
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * radial-gradient
+  * -webkit-text-stroke-width
+  * -webkit-text-stroke-color
+  * paint-order
 </details>  
 
 <details>
@@ -276,15 +318,20 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * coiny (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * Orange
+  * DarkOrange
+  * rgb(0 0 0 / .75) → kwart-transparent zwart
+  * rgb(255 255 255 /.75) → kwart-transparent wit
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * radial-gradeint
+  * box-shadow (2x - met komma's ertussen)
+  * text-shadow (2x - met komma's ertussen)
 </details>  
 
 <details>
@@ -294,15 +341,18 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * archivo (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * color:rgb(0 128 153) → blauwgroen
+  * color:rgb(255 153 153) → roze
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * voor de A en de 2 mag je een &lt;span&gt; element gebruiken in de &lt;h2&gt; - een &lt;h2&gt; met daarin twee &lt;span&gt;s dus (een &lt;span&gt; element heeft geen betekenis en kun je gebruiken om content te stijlen)
+  * translate (verplaatsen)
+  * mix-blend-mode
 </details>  
 
 <details>
@@ -312,15 +362,25 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * ubuntu (300 en 700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * Thistle
+  * MediumVioletRed
+  * Purple
+  * Black
+  * White
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * padding
+  * border
+  * border-radius
+  * corner-shape (voor de hapjes - chrome-only voor nu)
+  * box-shadow (inset)
+  * line-height
+  * ::first-line (om de eerste regel anders te stijlen)
 </details>  
 
 <details>
@@ -330,15 +390,24 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * dyna puff (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * #ffffcc → lichtgeel
+  * #f1c62d → donkergeel
+  * #000 → zwart
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * background-image
+  * background-size
+  * padding
+  * linear-gradient
+  * border
+  * border-radius
+  * letter-spacing
+  * rotate
 </details>  
 
 <details>
@@ -348,15 +417,18 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * aldrich (400)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * white
+  * black
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * conic-gradient
+  * background-size
+  * mix-blend-mode
 </details>  
 
 <details>
@@ -366,15 +438,19 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * nemo (400)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * rgb(0 153 204) → blauw met beetje groen
+  * rgb(0 153 204 / .75) → blauw met beetje groen beetje transparant
+  * rgb(255 255 255) → wit
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * grid met align-items en justify-items om de h2 onderin het blokje te plaatsen
+  * margin
+  * linear-gradient
 </details>  
 
 <details>
@@ -384,33 +460,52 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * coiny (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * #903 → donkerroze
+  * #f09 → roze
+  * #f9c → lichtroze
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * repeating-radial-gradient
+  * padding
+  * background-color
+  * border-radius
+  * corner-shape (voor de hapjes - chrome-only voor nu)
+  * backdrop-filter
 </details>  
 
 <details>
   <summary><h3>tips Brillo</h3></summary>
 
-  <img src="images/challenge_typografie-brillo.png" width="400" border="1">  
+  <img src="images/challenge_typografie-brillo-zeep.png" width="400" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * coiny (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * White
+  * MediumBlue
+  * DodgerBlue
+  * DarkOrange
+  * Gold
+  * MediumVioletRed
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * repeating-conic-gradient
+  * translate
+  * padding
+  * width (min-content)
+  * border-radius
+  * box-shadow (meerdere met komma's ertussen)
+  * line-height
+  * text-shadow (meerdere met komma's ertussen)
 </details>  
 
 <details>
@@ -420,15 +515,26 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * black han (700)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * #fff → wit
+  * #bbb → lichtgrijs
+  * #999 → grijs
+  * #ddd → donkergrijs
+  * #a00 → donkerrood
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * conic-gradient
+  * background-size
+  * width
+  * aspect-ratio
+  * margin
+  * border-radius
+  * corner-shape
+  * mix-blend-mode
 </details>  
 
 <details>
@@ -438,15 +544,22 @@
 
   <p>Gebruikte lettertype(n)</p>  
  
-  * x
+  * aldrich (400)
 
   <p>Gebruikte kleur(en)</p>
  
-  * x
+  * Green (donkerder groen)
+  * rgb(0 100% 0 / .2) → behoorlijk transparant groen
+  * #fff → wit
 
   <p>Je het de volgende CSS nodig</p>
    
-  * x
+  * padding
+  * background-color
+  * 2x repeating-linear-gradient (45deg en -45deg)
+  * height, margin en padding
+  * border
+  * radial-gradient (voor de kwart cirkel)
 </details>  
 
 
