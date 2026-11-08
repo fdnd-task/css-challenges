@@ -25,7 +25,7 @@
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f1d52-e54b-7bfa-be80-647a337c11c4" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
 <details>
-  <summary>tips</summary>
+  <summary><h3>tips</h3></summary>
 
   <img src="images/challenge_typografie-oefening1.png" width="400" border="1">  
 
@@ -59,7 +59,7 @@
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f3740-f9a0-7308-8941-86d3924c9a37" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
 <details>
-  <summary>tips you go girl</summary>
+  <summary><h3>tips you go girl</h3></summary>
 
   <img src="images/challenge_typografie-you-go-girl.png" width="400" border="1">  
 
@@ -90,7 +90,7 @@
 </details>  
 
 <details>
-  <summary>tips good vibes only</summary>
+  <summary><h3>tips good vibes only</h3></summary>
 
   <img src="images/challenge_typografie-good-vibes-only.png" width="400" border="1">  
 
