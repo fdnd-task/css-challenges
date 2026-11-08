@@ -130,7 +130,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Myst</h3></summary>
 
-  <img src="images/challenge_typografie-myst.png" width="300" border="1">  
+  <img src="images/challenge_typografie-myst.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -150,7 +150,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Neon</h3></summary>
 
-  <img src="images/challenge_typografie-neon.png" width="300" border="1">  
+  <img src="images/challenge_typografie-neon.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -172,7 +172,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Hello</h3></summary>
 
-  <img src="images/challenge_typografie-hello.png" width="300" border="1">  
+  <img src="images/challenge_typografie-hello.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -194,7 +194,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips CMYK</h3></summary>
 
-  <img src="images/challenge_typografie-cmyk.png" width="300" border="1">  
+  <img src="images/challenge_typografie-cmyk.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -216,7 +216,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Cold</h3></summary>
 
-  <img src="images/challenge_typografie-cold.png" width="300" border="1">  
+  <img src="images/challenge_typografie-cold.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -241,7 +241,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Blauw vs Rood</h3></summary>
 
-  <img src="images/challenge_typografie-blauw-vs-rood.png" width="300" border="1">  
+  <img src="images/challenge_typografie-blauw-vs-rood.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -266,7 +266,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Ticket</h3></summary>
 
-  <img src="images/challenge_typografie-ticket.png" width="300" border="1">  
+  <img src="images/challenge_typografie-ticket.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -291,7 +291,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Puff</h3></summary>
 
-  <img src="images/challenge_typografie-puff.png" width="300" border="1">  
+  <img src="images/challenge_typografie-puff.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -314,7 +314,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Verzonken</h3></summary>
 
-  <img src="images/challenge_typografie-verzonken.png" width="300" border="1">  
+  <img src="images/challenge_typografie-verzonken.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -337,7 +337,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips A2</h3></summary>
 
-  <img src="images/challenge_typografie-a2.png" width="300" border="1">  
+  <img src="images/challenge_typografie-a2.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -358,7 +358,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips But First Coffee</h3></summary>
 
-  <img src="images/challenge_typografie-but-first-coffee.png" width="300" border="1">  
+  <img src="images/challenge_typografie-but-first-coffee.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -386,7 +386,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Bananas</h3></summary>
 
-  <img src="images/challenge_typografie-bananas.png" width="300" border="1">  
+  <img src="images/challenge_typografie-bananas.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -413,7 +413,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Chess</h3></summary>
 
-  <img src="images/challenge_typografie-chess.png" width="300" border="1">  
+  <img src="images/challenge_typografie-chess.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -434,7 +434,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Nemo</h3></summary>
 
-  <img src="images/challenge_typografie-nemo.png" width="300" border="1">  
+  <img src="images/challenge_typografie-nemo.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -456,7 +456,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Wazig</h3></summary>
 
-  <img src="images/challenge_typografie-wazig.png" width="300" border="1">  
+  <img src="images/challenge_typografie-wazig.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -481,7 +481,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Brillo</h3></summary>
 
-  <img src="images/challenge_typografie-brillo-zeep.png" width="300" border="1">  
+  <img src="images/challenge_typografie-brillo-zeep.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -511,7 +511,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips AU</h3></summary>
 
-  <img src="images/challenge_typografie-au.png" width="300" border="1">  
+  <img src="images/challenge_typografie-au.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
@@ -540,7 +540,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 <details>
   <summary><h3>tips Messi</h3></summary>
 
-  <img src="images/challenge_typografie-lionel-messi.png" width="300" border="1">  
+  <img src="images/challenge_typografie-lionel-messi.png" width="240" border="1">  
 
   <p>Gebruikte lettertype(n)</p>  
  
