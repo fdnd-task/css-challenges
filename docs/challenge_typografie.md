@@ -23,7 +23,7 @@
 
 📊 ⸺ 🟦 🟥 Maak het blokje na  
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f1d52-e54b-7bfa-be80-647a337c11c4" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
-<img src="images/challenge_typografie-oefening1.png" width="400">
+<img src="images/challenge_typografie-oefening1.png" width="400" border="1">
 
 <details>
   <summary>tips</summary>
