@@ -14,7 +14,7 @@
 ## Oefening 1: 🌱 @font-face (opwarmen)
 
 📊 ⸺ 🟦 🟥 Maak het blokje na  
-🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening1.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 1</a> (zip)  
+🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening1.zip" target="_blank" rel="noopener noreferrer">Code voor jou</a> (zip)  
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f1d52-e54b-7bfa-be80-647a337c11c4" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
 <details>
@@ -49,7 +49,7 @@
 ## Oefening 2: 🖋️ meer text- en font-properties  
 
 📊 ⸺ 🟦 🟥 Maak de twee blokjes na  
-🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening2.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 2</a> (zip)  
+🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening2.zip" target="_blank" rel="noopener noreferrer">Code voor jou</a> (zip)  
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f3740-f9a0-7308-8941-86d3924c9a37" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
 <details>
@@ -101,7 +101,7 @@
 
   <p>Je het de volgende CSS nodig</p>
    
-  * @font-face (2x)  
+  * @font-face
   * li:nth-of-type(2)
     * background-color
   * li:nth-of-type(2) h2
@@ -121,32 +121,339 @@
 
 ## Oefening 3: 🦚 Mini posters
 
-📊 ⸺ 🟦 🟥 ⬛️  Kies postertjes uit en maak ze na  
-🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening3.zip" target="_blank" rel="noopener noreferrer">Code voor oefening 3</a> (zip 2MB)  
+📊 ⸺ 🟦 🟥 ⬛️  Kies mini-posters uit en maak ze na  
+🧑‍💻 ⸺ <a href="zips/challenge_typografie-oefening3.zip" target="_blank" rel="noopener noreferrer">Code voor jou</a> (zip 2MB)  
 🧑‍💻 ⸺ <a href="https://codepen.io/editor/shooft/pen/019f3b9a-5db7-7279-8745-bd1716d9dd5b" target="_blank" rel="noopener noreferrer">Uitwerking</a> (CodePen) niet meteen spieken 🫣  
 
+<details>
+  <summary><h3>tips Myst</h3></summary>
+
+  <img src="images/challenge_typografie-myst.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Neon</h3></summary>
+
+  <img src="images/challenge_typografie-neon.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Hello</h3></summary>
+
+  <img src="images/challenge_typografie-hello.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips CMYK</h3></summary>
+
+  <img src="images/challenge_typografie-cmyk.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Cold</h3></summary>
+
+  <img src="images/challenge_typografie-cold.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Blauw vs Rood</h3></summary>
+
+  <img src="images/challenge_typografie-blauw-vs-rood.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Ticket</h3></summary>
+
+  <img src="images/challenge_typografie-ticket.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Puff</h3></summary>
+
+  <img src="images/challenge_typografie-puff.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Verzonken</h3></summary>
+
+  <img src="images/challenge_typografie-verzonken.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips A2</h3></summary>
+
+  <img src="images/challenge_typografie-a2.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips But First Coffee</h3></summary>
+
+  <img src="images/challenge_typografie-but-first-coffee.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Bananas</h3></summary>
+
+  <img src="images/challenge_typografie-bananas.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Chess</h3></summary>
+
+  <img src="images/challenge_typografie-chess.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Nemo</h3></summary>
+
+  <img src="images/challenge_typografie-nemo.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Wazig</h3></summary>
+
+  <img src="images/challenge_typografie-wazig.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Brillo</h3></summary>
+
+  <img src="images/challenge_typografie-brillo.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips AU</h3></summary>
+
+  <img src="images/challenge_typografie-au.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
+
+<details>
+  <summary><h3>tips Messi</h3></summary>
+
+  <img src="images/challenge_typografie-lionel-messi.png" width="400" border="1">  
+
+  <p>Gebruikte lettertype(n)</p>  
+ 
+  * x
+
+  <p>Gebruikte kleur(en)</p>
+ 
+  * x
+
+  <p>Je het de volgende CSS nodig</p>
+   
+  * x
+</details>  
 
 
 
 
----
 
-## Oefening 3: 🦋 Variabele fonts
 
-📊 ⸺ 🟦 🟥 ⬛️  
-
-📙 ⸺ 
-<a href="pres/FDND-CSSchallenge7-Fonts-oefening3.pdf" target="_blank" rel="noopener noreferrer">Typografie oefening 3</a> 
-(pdf 3MB)
-
-🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/BaXEYBm" target="_blank" rel="noopener noreferrer">Uitwerking</a>
-(CodePen)  
-🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/eYqoZgO" target="_blank" rel="noopener noreferrer">Uitwerking met extra's</a>
-(CodePen)
-
-niet meteen spieken 🫣  
 
 ---
  
