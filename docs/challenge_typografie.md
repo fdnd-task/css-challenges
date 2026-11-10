@@ -158,7 +158,7 @@ De basis voor de tekst in elk blokje is steeds alleen een &lt;h2&gt; (tenzij and
 
   <p>Gebruikte kleur(en)</p>
  
-  * imegreen
+  * limegreen
   * midnightblue
   * white
 
