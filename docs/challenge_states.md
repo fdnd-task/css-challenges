@@ -15,34 +15,29 @@
 
 ## Oefening 1: 🎛️ Links, buttons en co
 
-📊 ⸺ 🟦 🟥 ⬛️ 
+📊 ⸺ 🟦 🟥 ⬛️  
 
-📙 ⸺ 
-<a href="pres/FDND-CSSchallenge8-States-oefening1.pdf" target="_blank" rel="noopener noreferrer">States oefening 1</a> 
-(pdf)
+**Maak zoveel mogelijk blokjes na.**  
+Of doe fijne eigen experimenten met de aangereikte code. Tips vind je in het commentaar in de code.  
 
 🧑‍💻 ⸺ Buttons :: 
-<a href="https://codepen.io/shooft/live/pvyNzpQ" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
-<a href="https://codepen.io/shooft/pen/YPqNvMW" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
-<a href="https://codepen.io/shooft/pen/pvyNzpQ" target="_blank" rel="noopener noreferrer">uitwerking</a> 
+<a href="https://codepen.io/editor/shooft/pen/019a8fac-1471-795f-bb30-a802566f75b2" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
+<a href="https://codepen.io/editor/shooft/pen/019a8a6e-79f2-7b2e-bc3e-92442bec39f1" target="_blank" rel="noopener noreferrer">uitwerking</a> 
 (CodePen)  
 
 🧑‍💻 ⸺ Tekstvelden en co :: 
-<a href="https://codepen.io/shooft/live/JoXEveB" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
-<a href="https://codepen.io/shooft/pen/myPRKgR" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
-<a href="https://codepen.io/shooft/pen/JoXEveB" target="_blank" rel="noopener noreferrer">uitwerking</a> 
+<a href="https://codepen.io/editor/shooft/pen/019a8fac-2003-79f5-8e06-342378b15a84" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
+<a href="https://codepen.io/editor/shooft/pen/019a8f8e-68f5-7dc1-887d-3c1b448c7994" target="_blank" rel="noopener noreferrer">uitwerking</a> 
 (CodePen)  
 
 🧑‍💻 ⸺ Checkboxes en radio buttons :: 
-<a href="https://codepen.io/shooft/live/xbVgjQz" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
-<a href="https://codepen.io/shooft/pen/OPNWEGj" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
-<a href="https://codepen.io/shooft/pen/xbVgjQz" target="_blank" rel="noopener noreferrer">uitwerking</a> 
+<a href="https://codepen.io/editor/shooft/pen/019a8fac-2a66-7464-a19c-faefd59e4fc2" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
+<a href="https://codepen.io/editor/shooft/pen/019a8f8e-5b69-7db1-9516-6930d71113a0" target="_blank" rel="noopener noreferrer">uitwerking</a> 
 (CodePen)  
 
 🧑‍💻 ⸺ Ranges :: 
-<a href="https://codepen.io/shooft/live/EaKZLOE" target="_blank" rel="noopener noreferrer">voorbeeld</a> :: 
-<a href="https://codepen.io/shooft/pen/wBGgXZP" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
-<a href="https://codepen.io/shooft/pen/EaKZLOE" target="_blank" rel="noopener noreferrer">uitwerking</a> 
+<a href="https://codepen.io/editor/shooft/pen/019a8fac-3531-7b72-8c63-b7ed3c618aa4" target="_blank" rel="noopener noreferrer">code voor jou</a> :: 
+<a href="https://codepen.io/editor/shooft/pen/019a8f8e-4f2c-7d7f-8a89-63de8a392454" target="_blank" rel="noopener noreferrer">uitwerking</a> 
 (CodePen)  
 
 niet meteen spieken 🫣  
@@ -51,17 +46,16 @@ niet meteen spieken 🫣
 
 ## Oefening 2: 🎉 :has()
 
-📊 ⸺ 🟦 🟥 ⬛️ 
+📊 ⸺ 🟦 🟥 ⬛️  
 
-📙 ⸺ 
-<a href="pres/FDND-CSSchallenge8-States-oefening2.pdf" target="_blank" rel="noopener noreferrer">States oefening 2</a> 
-(pdf)
+**Maak zoveel mogelijk blokjes na.**  
+Of doe fijne eigen experimenten met de aangereikte code. Tips vind je in het commentaar in de code.  
 
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/VYZZmdZ" target="_blank" rel="noopener noreferrer">Code voor jou</a>
+<a href="https://codepen.io/editor/shooft/pen/019360ef-16d6-707d-9711-73c0eecfdc00" target="_blank" rel="noopener noreferrer">Code voor jou</a>
 (CodePen)  
 🧑‍💻 ⸺
-<a href="https://codepen.io/shooft/pen/OJKKeaw" target="_blank" rel="noopener noreferrer">Uitwerking</a>
+<a href="https://codepen.io/editor/shooft/pen/01935b84-4eb4-79b8-b9da-715a795e68b9" target="_blank" rel="noopener noreferrer">Uitwerking</a>
 (CodePen)
 
 niet meteen spieken 🫣  
